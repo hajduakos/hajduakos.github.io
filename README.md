@@ -11,6 +11,10 @@ Computer scientist located in Budapest, Hungary, currently pursuing PhD studies 
 - Applying logic in verification, SAT/SMT, interpolation
 - Experimental evaluation and comparison of verification algorithms
 
+## Tools
+- [Solc-verify](https://github.com/SRI-CSL/solidity/tree/boogie/): Automated formal verification for Solidity smart contracts.
+- [Theta](https://github.com/FTSRG/theta): Generic, modular and configurable verification framework.
+
 ## Education and Degrees
 - 2016 - present: **PhD student/candidate**, Budapest University of Technology and Economics
 - 2014 - 2016: **Computer Engineering MSc**, Budapest University of Technology and Economics
