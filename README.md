@@ -39,3 +39,7 @@ Computer scientist located in Budapest, Hungary, currently pursuing PhD studies 
 - **New search strategies for the Petri net CEGAR approach** (ICATPN 2015) [[pdf]](https://hajduakos.github.io/Publications/icatpn2015.pdf)
 
 **[Full list](https://hajduakos.github.io/Publications/)**
+
+## Teaching
+- Current: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
+- Former: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Surveillance (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
