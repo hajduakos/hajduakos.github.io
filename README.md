@@ -30,3 +30,12 @@ Computer scientist located in Budapest, Hungary, currently pursuing PhD studies 
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**
 - 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**
 - 2016 - present: **[MTA-BME Lendület Cyber-Physical Systems Research Group](http://lendulet.inf.mit.bme.hu/)**
+
+## Selected Publications
+- **Industrial Applications of the PetriDotNet Modelling and Analysis Tool** (SCP 2018) [[pdf]](https://hajduakos.github.io/Publications/scp2017.pdf)
+- **Theta: a Framework for Abstraction Refinement-Based Model Checking** (FMCAD 2017) [[pdf]](https://hajduakos.github.io/Publications/fmcad2017.pdf)
+- **Towards Evaluating Size Reduction Techniques for Software Model Checking** (VPT 2017) [[pdf]](https://hajduakos.github.io/Publications/vpt2017.pdf)
+- **A Configurable CEGAR Framework with Interpolation-based Refinements** (FORTE 2016) [[pdf]](https://hajduakos.github.io/Publications/forte2016.pdf)
+- **New search strategies for the Petri net CEGAR approach** (ICATPN 2015) [[pdf]](https://hajduakos.github.io/Publications/icatpn2015.pdf)
+
+**[Full list](https://hajduakos.github.io/Publications/)**
