@@ -25,3 +25,8 @@ Computer scientist located in Budapest, Hungary, currently pursuing PhD studies 
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship [[report]](http://cds.cern.ch/record/2044503)
 - 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship
+
+## Participation in Research Projects
+- 2019 - present: **[ADVANCE](http://advance-rise.eu/)**
+- 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**
+- 2016 - present: **[MTA-BME Lendület Cyber-Physical Systems Research Group](http://lendulet.inf.mit.bme.hu/)**
