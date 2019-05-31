@@ -38,8 +38,13 @@ Computer scientist located in Budapest, Hungary, currently pursuing PhD studies 
 - **A Configurable CEGAR Framework with Interpolation-based Refinements** (FORTE 2016) [[pdf]](https://hajduakos.github.io/Publications/forte2016.pdf)
 - **New search strategies for the Petri net CEGAR approach** (ICATPN 2015) [[pdf]](https://hajduakos.github.io/Publications/icatpn2015.pdf)
 
-**[Full list](https://hajduakos.github.io/Publications/)**
+**[Full list of publications](https://hajduakos.github.io/Publications/)**
 
 ## Teaching
-- Current: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
-- Former: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Surveillance (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
+- **Current**: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
+- **Former**: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Surveillance (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
+
+## Professional Activities and Services
+- **Subeviewer**: [VSTTE'19](https://sri-csl.github.io/VSTTE19/), [HASE'19](http://cloud.hdu.edu.cn/hase2019/), [LADC’18](http://www.inf.unioeste.br/ladc2018/), [SRDS’17](http://srds2017.comp.polyu.edu.hk/)
+- **Local organization**: [AVM’17](http://avm2017.inf.mit.bme.hu/), [SRDS’16](http://srds2016.inf.mit.bme.hu/), [ICACON’15](http://icacon2015.inf.mit.bme.hu/), [DSN’13](http://2013.dsn.org/)
+- **Webmaster**: [DISC'19](http://www.disc-conference.org/wp/disc2019/)
