@@ -3,4 +3,8 @@ logo: /assets/img/hajduakos.jpg
 description: Computer scientist
 title1: PhD Candidate
 affiliation1: BME MIT FTSRG
+webpage1: http://inf.mit.bme.hu/en
+title2: Research intern
+affiliation2: SRI International
+webpage2: https://www.sri.com/
 theme: jekyll-theme-minimal
