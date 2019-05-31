@@ -1,11 +1,11 @@
 ## About Me
-Computer scientist located in Budapest, Hungary, currently pursuing PhD studies in the field of formal verification. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
+Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## Research Interests
-- Formal methods, model checking, abstraction, CEGAR
-- Verification of software, smart contracts, transition systems and Petri nets
-- Applying logic in verification, SAT/SMT, interpolation
-- Experimental evaluation and comparison of verification algorithms
+- Formal methods, model checking, SMT, abstraction, CEGAR
+- Verification of software, smart contracts and Petri nets
+- Tool development
+- Experimental evaluation and analysis
 
 ## Tools
 - **[Solc-verify](https://github.com/SRI-CSL/solidity/tree/boogie/)**: Automated formal verification for Solidity smart contracts.
