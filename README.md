@@ -4,7 +4,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## Research Interests
 - Formal methods, model checking, SMT, abstraction, CEGAR
 - Verification of software, smart contracts and Petri nets
-- Tool development
+- Tool and framework development
 - Experimental evaluation and analysis
 
 ## Tools
