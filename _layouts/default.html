@@ -20,11 +20,19 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a></p>
+        <p>
+        {{ site.description | default: site.github.project_tagline }}
+        
+        {% if site.title1 %}
+          {{ site.title1 }} at {{ site.affiliation1 }} <br />
         {% endif %}
+        </p>
+        
+        <p class="view">
+        {% if site.github.is_user_page %}
+          <a href="{{ site.github.owner_url }}">GitHub</a>
+        {% endif %}
+        </p>
 
       </header>
       <section>
