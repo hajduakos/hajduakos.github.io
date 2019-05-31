@@ -16,7 +16,7 @@ Computer scientist located in Budapest, Hungary, currently pursuing PhD studies 
 - **[Theta](https://github.com/FTSRG/theta)**: Generic, modular and configurable verification framework.
 
 ## Education and Degrees
-- 2016 - present: **PhD student/candidate**, Budapest University of Technology and Economics
+- 2016 - present: **PhD student/candidate**, Budapest University of Technology and Economics, Advised by [Dr. Zoltan Micskei](http://mit.bme.hu/~micskeiz/)
 - 2014 - 2016: **Computer Engineering MSc**, Budapest University of Technology and Economics
 - 2010 - 2014: **Computer Engineering BSc**, Budapest University of Technology and Economics
 
