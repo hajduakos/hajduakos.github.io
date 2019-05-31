@@ -7,10 +7,6 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - Tool and framework development
 - Experimental evaluation and analysis
 
-## Tools
-- **[Solc-verify](https://github.com/SRI-CSL/solidity/tree/boogie/)**: Automated formal verification for Solidity smart contracts.
-- **[Theta](https://github.com/FTSRG/theta)**: Generic, modular and configurable verification framework.
-
 ## Education and Degrees
 - 2016 - present: **PhD student/candidate**, Budapest University of Technology and Economics, Advised by [Dr. Zoltan Micskei](http://mit.bme.hu/~micskeiz/)
 - 2014 - 2016: **Computer Engineering MSc**, Budapest University of Technology and Economics
@@ -21,6 +17,10 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship [[report]](http://cds.cern.ch/record/2044503)
 - 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship
+
+## Tools
+- **[Solc-verify](https://github.com/SRI-CSL/solidity/tree/boogie/)**: Automated formal verification for Solidity smart contracts.
+- **[Theta](https://github.com/FTSRG/theta)**: Generic, modular and configurable verification framework.
 
 ## Participation in Research Projects
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**
