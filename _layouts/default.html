@@ -33,7 +33,10 @@
         
         <p class="view">
         {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}">GitHub</a>
+          <a href="{{ site.github.owner_url }}">GitHub</a><br />
+        {% endif %}
+        {% if site.scholar %}
+          <a href="{{ site.scholar }}">Google Scholar</a><br />
         {% endif %}
         </p>
 
