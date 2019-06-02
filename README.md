@@ -34,7 +34,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **A Configurable CEGAR Framework with Interpolation-based Refinements** (FORTE 2016) [[pdf]](https://hajduakos.github.io/Publications/forte2016.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements)
 - **New search strategies for the Petri net CEGAR approach** (ICATPN 2015) [[pdf]](https://hajduakos.github.io/Publications/icatpn2015.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)
 
-**[Full list of publications](https://hajduakos.github.io/Publications/)**
+**[Full list of publications](publications.html)**
 
 ## Teaching
 - **Current**: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
