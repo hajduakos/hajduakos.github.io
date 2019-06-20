@@ -32,11 +32,17 @@
         </p>
         
         <p class="view">
+        {% if site.mail %}
+          {{ site.mail }}<br />
+        {% endif %}
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}">GitHub</a><br />
         {% endif %}
         {% if site.scholar %}
           <a href="{{ site.scholar }}">Google Scholar</a><br />
+        {% endif %}
+        {% if site.linkedin %}
+          <a href="{{ site.linkedin }}">LinkedIn</a><br />
         {% endif %}
         </p>
 
