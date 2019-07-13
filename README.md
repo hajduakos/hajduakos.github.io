@@ -21,6 +21,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## Tools
 - **[Solc-verify](https://github.com/SRI-CSL/solidity/tree/boogie/)**: Automated formal verification for Solidity smart contracts.
 - **[Theta](https://github.com/FTSRG/theta)**: Generic, modular and configurable verification framework.
+- **[PetriDotNet](https://inf.mit.bme.hu/en/research/tools/petridotnet)**: Petri net modeling and analysis framework.
 
 ## Participation in Research Projects
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**
