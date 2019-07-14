@@ -13,14 +13,14 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - 2010 - 2014: **Computer Engineering BSc**, Budapest University of Technology and Economics [[thesis]](publications/bscthesis2013.pdf)
 
 ## Research Visits, Internships
-- 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship [[tool]](https://github.com/SRI-CSL/solidity/tree/boogie/) [[paper]](https://arxiv.org/pdf/1907.04262)  
-  Formal verification of Solidity smart contracts on the Ethereum blockchain.
-- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)  
-  Development of functional verification for cyber-physical systems.
-- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship [[report]](http://cds.cern.ch/record/2044503)  
-  Development of code generation in ROOT, a data analysis framework for the experiments.
+- 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship  
+  _Formal verification of Solidity smart contracts on the Ethereum blockchain._ [[tool]](https://github.com/SRI-CSL/solidity/tree/boogie/) [[paper]](https://arxiv.org/pdf/1907.04262)
+- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit  
+  _Development of functional verification for cyber-physical systems._ [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
+- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship  
+  _Development of code generation in ROOT, a data analysis framework for the experiments._ [[report]](http://cds.cern.ch/record/2044503)
 - 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship  
-  Modeling and analysis of public transportation networks using Petri nets.
+  _Modeling and analysis of public transportation networks using Petri nets._
 
 ## Tools
 - **[Solc-verify](https://github.com/SRI-CSL/solidity/tree/boogie/)**: Automated formal verification for Solidity smart contracts.
