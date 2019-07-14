@@ -14,7 +14,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## Research Visits, Internships
 - 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship  
-  _Formal verification of Solidity smart contracts on the Ethereum blockchain._ [[tool]](https://github.com/SRI-CSL/solidity/tree/boogie/) [[paper]](https://arxiv.org/pdf/1907.04262)
+  _Formal verification of Solidity smart contracts on the Ethereum blockchain._ [[tool]](https://github.com/SRI-CSL/solidity) [[paper]](https://arxiv.org/pdf/1907.04262)
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit  
   _Development of functional verification for cyber-physical systems._ [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship  
@@ -23,7 +23,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Modeling and analysis of public transportation networks using Petri nets._
 
 ## Tools
-- **[Solc-verify](https://github.com/SRI-CSL/solidity/tree/boogie/)**: Automated formal verification for Solidity smart contracts.
+- **[Solc-verify](https://github.com/SRI-CSL/solidity)**: Automated formal verification for Solidity smart contracts.
 - **[Theta](https://github.com/FTSRG/theta)**: Generic, modular and configurable verification framework.
 - **[PetriDotNet](https://inf.mit.bme.hu/en/research/tools/petridotnet)**: Petri net modeling and analysis framework.
 
