@@ -18,14 +18,17 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit  
   _Development of functional verification for cyber-physical systems._ [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship  
-  _Development of code generation in ROOT, a data analysis framework for the experiments._ [[report]](http://cds.cern.ch/record/2044503)
+  _Development of code generation in ROOT, a data analysis framework for the experiments._ [[tool]](https://root.cern.ch/) [[report]](http://cds.cern.ch/record/2044503)
 - 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship  
   _Modeling and analysis of public transportation networks using Petri nets._
 
 ## Tools
-- **[Solc-verify](https://github.com/SRI-CSL/solidity)**: Automated formal verification for Solidity smart contracts.
-- **[Theta](https://github.com/FTSRG/theta)**: Generic, modular and configurable verification framework.
-- **[PetriDotNet](https://inf.mit.bme.hu/en/research/tools/petridotnet)**: Petri net modeling and analysis framework.
+- **[Solc-Verify](https://github.com/SRI-CSL/solidity)**  
+  _Automated formal verification for Solidity smart contracts._
+- **[Theta](https://github.com/FTSRG/theta)**  
+  _Generic, modular and configurable verification framework._
+- **[PetriDotNet](https://inf.mit.bme.hu/en/research/tools/petridotnet)**  
+  _Petri net modeling and analysis framework._
 
 ## Participation in Research Projects
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**
