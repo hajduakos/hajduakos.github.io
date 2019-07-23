@@ -23,12 +23,15 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Modeling and analysis of public transportation networks using Petri nets._
 
 ## Tools
+
 - **[Solc-Verify](https://github.com/SRI-CSL/solidity)**  
   _Automated formal verification for Solidity smart contracts._
 - **[Theta](https://github.com/FTSRG/theta)**  
   _Generic, modular and configurable verification framework._
 - **[PetriDotNet](https://inf.mit.bme.hu/en/research/tools/petridotnet)**  
   _Petri net modeling and analysis framework._
+- **[ROOT](https://root.cern.ch/)**  
+  _Data analysis framework for high energy physics._
 
 ## Participation in Research Projects
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**
@@ -36,9 +39,9 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - 2016 - present: **[MTA-BME Lendület Cyber-Physical Systems Research Group](http://lendulet.inf.mit.bme.hu/)**
 
 ## Selected Publications
+- **solc-verify: A Modular Verifier for Solidity Smart Contracts** (VSTTE 2019) [[pdf]](https://arxiv.org/pdf/1907.04262.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
 - **Industrial Applications of the PetriDotNet Modelling and Analysis Tool** (SCP 2018) [[pdf]](publications/scp2017.pdf)
 - **Theta: a Framework for Abstraction Refinement-Based Model Checking** (FMCAD 2017) [[pdf]](publications/fmcad2017.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/theta-a-framework-for-abstraction-refinementbased-model-checking)
-- **Towards Evaluating Size Reduction Techniques for Software Model Checking** (VPT 2017) [[pdf]](publications/vpt2017.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/towards-evaluating-size-reduction-techniques-for-software-model-checking)
 - **A Configurable CEGAR Framework with Interpolation-based Refinements** (FORTE 2016) [[pdf]](publications/forte2016.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements)
 - **New search strategies for the Petri net CEGAR approach** (ICATPN 2015) [[pdf]](publications/icatpn2015.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)
 
