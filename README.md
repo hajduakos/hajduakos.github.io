@@ -8,18 +8,22 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - Experimental evaluation and analysis
 
 ## Education and Degrees
-- 2016 - present: **PhD student/candidate**, Budapest University of Technology and Economics, Advised by [Dr. Zoltan Micskei](http://mit.bme.hu/~micskeiz/)
-- 2014 - 2016: **Computer Engineering MSc**, Budapest University of Technology and Economics [[thesis]](publications/mscthesis2015.pdf)
-- 2010 - 2014: **Computer Engineering BSc**, Budapest University of Technology and Economics [[thesis]](publications/bscthesis2013.pdf)
+- 2016 - present: **PhD student/candidate**  
+  Budapest University of Technology and Economics  
+  _Advised by [Dr. Zoltan Micskei](http://mit.bme.hu/~micskeiz/)_
+- 2014 - 2016: **Computer Engineering MSc**  
+  Budapest University of Technology and Economics [[thesis]](publications/mscthesis2015.pdf)
+- 2010 - 2014: **Computer Engineering BSc**  
+  Budapest University of Technology and Economics [[thesis]](publications/bscthesis2013.pdf)
 
 ## Research Visits, Internships
-- 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship  
+- 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (6 months)  
   _Formal verification of Solidity smart contracts on the Ethereum blockchain._ [[tool]](https://github.com/SRI-CSL/solidity) [[paper]](https://arxiv.org/pdf/1907.04262)
-- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit  
+- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
   _Development of functional verification for cyber-physical systems._ [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
-- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship  
+- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks)  
   _Development of code generation in ROOT, a data analysis framework for the experiments._ [[tool]](https://root.cern.ch/) [[report]](http://cds.cern.ch/record/2044503)
-- 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship  
+- 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship (6 weeks)  
   _Modeling and analysis of public transportation networks using Petri nets._
 
 ## Tools
@@ -31,12 +35,15 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **[PetriDotNet](https://inf.mit.bme.hu/en/research/tools/petridotnet)**  
   _Petri net modeling and analysis framework._
 - **[ROOT](https://root.cern.ch/)**  
-  _Data analysis framework for high energy physics._
+  _Data analysis framework of CERN for high energy physics._
 
 ## Participation in Research Projects
-- 2019 - present: **[ADVANCE](http://advance-rise.eu/)**
-- 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**
-- 2016 - present: **[MTA-BME Lendület Cyber-Physical Systems Research Group](http://lendulet.inf.mit.bme.hu/)**
+- 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
+  _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
+- 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**  
+  _Application of formal methods to verify industrial control code._
+- 2016 - present: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
+  _Functional verification for cyber-physical systems._
 
 ## Selected Publications
 - **solc-verify: A Modular Verifier for Solidity Smart Contracts** (VSTTE 2019) [[pdf]](https://arxiv.org/pdf/1907.04262.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
