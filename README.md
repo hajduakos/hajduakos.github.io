@@ -46,11 +46,11 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Functional verification for cyber-physical systems._
 
 ## Selected Publications
-- **VSTTE'19** solc-verify: A Modular Verifier for Solidity Smart Contracts [[paper]](https://arxiv.org/pdf/1907.04262.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
-- **SCP'18** Industrial Applications of the PetriDotNet Modelling and Analysis Tool [[paper]](publications/scp2017.pdf)
-- **FMCAD'17** Theta: a Framework for Abstraction Refinement-Based Model Checking [[paper]](publications/fmcad2017.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/theta-a-framework-for-abstraction-refinementbased-model-checking)
-- **FORTE'16** A Configurable CEGAR Framework with Interpolation-based Refinements [[paper]](publications/forte2016.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements)
-- **ICATPN'15** New search strategies for the Petri net CEGAR approach [[paper]](publications/icatpn2015.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)
+- **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** solc-verify: A Modular Verifier for Solidity Smart Contracts [[paper]](https://arxiv.org/pdf/1907.04262.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
+- **[SCP'18](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/157)** Industrial Applications of the PetriDotNet Modelling and Analysis Tool [[paper]](publications/scp2017.pdf)
+- **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** Theta: a Framework for Abstraction Refinement-Based Model Checking [[paper]](publications/fmcad2017.pdf) [[talk]](https://www.slideshare.net/AkosHajdu/theta-a-framework-for-abstraction-refinementbased-model-checking)
+- **[FORTE'16](http://2016.discotec.org/)** A Configurable CEGAR Framework with Interpolation-based Refinements [[paper]](publications/forte2016.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements)
+- **[ICATPN'15](http://di.ulb.ac.be/verif/pn2015acsd2015/)** New search strategies for the Petri net CEGAR approach [[paper]](publications/icatpn2015.pdf) [[talk]](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)
 
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
