@@ -10,21 +10,21 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## Education and Degrees
 - 2016 - present: **Budapest University of Technology and Economics**  
   PhD student/candidate  
-  _Advised by [Dr. Zoltan Micskei](http://mit.bme.hu/~micskeiz/)_
+  _Advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_
 - 2014 - 2016: **Budapest University of Technology and Economics**  
   Computer Engineering MSc [[thesis]](publications/mscthesis2015.pdf)
 - 2010 - 2014: **Budapest University of Technology and Economics**  
   Computer Engineering BSc [[thesis]](publications/bscthesis2013.pdf)
 
 ## Research Visits, Internships
-- 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (6 months)  
+- 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (2x3 months)  
   _Formal verification of Solidity smart contracts on the Ethereum blockchain._ [[tool]](https://github.com/SRI-CSL/solidity) [[paper]](https://arxiv.org/pdf/1907.04262)
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
   _Development of functional verification for cyber-physical systems._ [[talk]](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks)  
-  _Development of code generation in ROOT, a data analysis framework for the experiments._ [[tool]](https://root.cern.ch/) [[report]](http://cds.cern.ch/record/2044503)
+  _Development of code generation in the ROOT data analysis framework._ [[tool]](https://root.cern.ch/) [[report]](http://cds.cern.ch/record/2044503)
 - 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship (6 weeks)  
-  _Modeling and analysis of public transportation networks using Petri nets._
+  _Modeling and analysis of public transportation networks using Petri nets._ [[paper]](publications/scp2017.pdf)  
 
 ## Tools
 
