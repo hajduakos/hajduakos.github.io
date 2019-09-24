@@ -36,19 +36,19 @@
         
         <p class="view">
         {% if site.mail %}
-          <i class="fas fa-envelope"></i> {{ site.mail }}<br />
+          <i class="fas fa-envelope fa-fw"></i> {{ site.mail }}<br />
         {% endif %}
         {% if site.github.is_user_page %}
-          <i class="fab fa-github"></i> <a href="{{ site.github.owner_url }}">GitHub</a><br />
+          <i class="fab fa-github fa-fw"></i> <a href="{{ site.github.owner_url }}">GitHub</a><br />
         {% endif %}
         {% if site.scholar %}
-          <i class="fab fa-google"></i> <a href="{{ site.scholar }}">Google Scholar</a><br />
+          <i class="fab fa-google fa-fw"></i> <a href="{{ site.scholar }}">Google Scholar</a><br />
         {% endif %}
         {% if site.dblp %}
-          <i class="fas fa-file-alt"></i> <a href="{{ site.dblp }}">dblp</a><br />
+          <i class="fas fa-file-alt fa-fw"></i> <a href="{{ site.dblp }}">dblp</a><br />
         {% endif %}
         {% if site.linkedin %}
-          <i class="fab fa-linkedin"></i> <a href="{{ site.linkedin }}">LinkedIn</a><br />
+          <i class="fab fa-linkedin fa-fw"></i> <a href="{{ site.linkedin }}">LinkedIn</a><br />
         {% endif %}
         </p>
 
