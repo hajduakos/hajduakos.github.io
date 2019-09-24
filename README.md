@@ -27,7 +27,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Modeling and analysis of public transportation networks using Petri nets._ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)  
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
-- 2018 - present: **[Solc-Verify <i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity)**  
+- 2018 - present: **[solc-verify <i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity)**  
   _Automated formal verification for Solidity smart contracts._
 - 2016 - present: **[Theta <i class="fab fa-github"></i>](https://github.com/FTSRG/theta)**  
   _Generic, modular and configurable verification framework._
