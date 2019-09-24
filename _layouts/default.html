@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <script src="https://kit.fontawesome.com/2d97c027cb.js" crossorigin="anonymous"></script>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -35,19 +36,19 @@
         
         <p class="view">
         {% if site.mail %}
-          {{ site.mail }}<br />
+          <i class="fas fa-envelope"></i> {{ site.mail }}<br />
         {% endif %}
         {% if site.github.is_user_page %}
-          <a href="{{ site.github.owner_url }}">GitHub</a><br />
+          <i class="fab fa-github"></i> <a href="{{ site.github.owner_url }}">GitHub</a><br />
         {% endif %}
         {% if site.scholar %}
-          <a href="{{ site.scholar }}">Google Scholar</a><br />
+          <i class="fab fa-google"></i> <a href="{{ site.scholar }}">Google Scholar</a><br />
         {% endif %}
         {% if site.dblp %}
-          <a href="{{ site.dblp }}">dblp</a><br />
+          <i class="fas fa-file-alt"></i> <a href="{{ site.dblp }}">dblp</a><br />
         {% endif %}
         {% if site.linkedin %}
-          <a href="{{ site.linkedin }}">LinkedIn</a><br />
+          <i class="fab fa-linkedin"></i> <a href="{{ site.linkedin }}">LinkedIn</a><br />
         {% endif %}
         </p>
 
