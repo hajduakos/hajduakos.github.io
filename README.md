@@ -62,17 +62,17 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **Current**: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
 - **Former**: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Surveillance (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
 
-## <i class="fas fa-university fa-fw"></i> Professional Activities and Services
+## <i class="fas fa-university fa-fw"></i> Service
 - **Subreviewer**: [VSTTE'19](https://sri-csl.github.io/VSTTE19/), [HASE'19](http://cloud.hdu.edu.cn/hase2019/), [LADC’18](http://www.inf.unioeste.br/ladc2018/), [SRDS’17](http://srds2017.comp.polyu.edu.hk/)
 - **Local organization**: [DISC'19](http://www.disc-conference.org/wp/disc2019/), [AVM’17](http://avm2017.inf.mit.bme.hu/), [SRDS’16](http://srds2016.inf.mit.bme.hu/), [ICACON’15](http://icacon2015.inf.mit.bme.hu/), [DSN’13](http://2013.dsn.org/)
 - **Webmaster**: [DISC'19](http://www.disc-conference.org/wp/disc2019/)
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Summer Schools, Seminars
-- [Winter School in Computer Science and Engineering on Blockchains and Cryptocurrencies 2018](http://ias.huji.ac.il/cse3)
-- [Dependable Software Systems Engineering Summer School (Marktoberdorf) 2016](https://sites.google.com/site/marktoberdorf16/)
-- [SAT/SMT/AR Summer School 2016](http://ssa-school-2016.it.uu.se/)
-- [Spring School on Logic and Verification 2016](http://forsyte.at/events/love2016/)
-- [Automatic Verification and Analysis of Complex Systems 2015](http://www.avacs.org/autumn2015/)
-- [Verification Technology, Systems and Applications 2014](http://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa14/)
-- [Huawei Telecom Seeds for the Future 2014](http://huawei.eu/seeds-for-the-future/)
-- [Mathematics for Scientific Programming (Oberwolfach) 2013](https://www.mfo.de/occasion/1348a/www_view)
+- 2018 [Winter School in Computer Science and Engineering on Blockchains and Cryptocurrencies](http://ias.huji.ac.il/cse3)
+- 2016 [Dependable Software Systems Engineering Summer School (Marktoberdorf)](https://sites.google.com/site/marktoberdorf16/)
+- 2016 [SAT/SMT/AR Summer School](http://ssa-school-2016.it.uu.se/)
+- 2016 [Spring School on Logic and Verification](http://forsyte.at/events/love2016/)
+- 2015 [Automatic Verification and Analysis of Complex Systems](http://www.avacs.org/autumn2015/)
+- 2014 [Verification Technology, Systems and Applications](http://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa14/)
+- 2014 [Huawei Telecom Seeds for the Future](http://huawei.eu/seeds-for-the-future/)
+- 2013 [Mathematics for Scientific Programming (Oberwolfach)](https://www.mfo.de/occasion/1348a/www_view)
