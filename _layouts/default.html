@@ -38,6 +38,12 @@
         {% if site.mail %}
           <i class="fas fa-envelope fa-fw"></i> {{ site.mail }}<br />
         {% endif %}
+        {% if site.cv %}
+          <i class="fas fa-file-pdf fa-fw"></i> <a href="{{ site.cv }}">CV</a><br />
+        {% endif %}
+        {% if site.linkedin %}
+          <i class="fab fa-linkedin fa-fw"></i> <a href="{{ site.linkedin }}">LinkedIn</a><br />
+        {% endif %}
         {% if site.github.is_user_page %}
           <i class="fab fa-github fa-fw"></i> <a href="{{ site.github.owner_url }}">GitHub</a><br />
         {% endif %}
@@ -46,9 +52,6 @@
         {% endif %}
         {% if site.dblp %}
           <i class="fas fa-file-alt fa-fw"></i> <a href="{{ site.dblp }}">dblp</a><br />
-        {% endif %}
-        {% if site.linkedin %}
-          <i class="fab fa-linkedin fa-fw"></i> <a href="{{ site.linkedin }}">LinkedIn</a><br />
         {% endif %}
         </p>
 
