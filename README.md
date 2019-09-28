@@ -36,14 +36,6 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - 2015 - 2015: **[ROOT <i class="fab fa-github"></i>](https://github.com/root-project/root)**  
   _Data analysis framework of CERN for high energy physics._
 
-## <i class="fas fa-cogs fa-fw"></i> Research Projects
-- 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
-  _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
-- 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**  
-  _Application of formal methods to verify industrial control code._
-- 2016 - present: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
-  _Functional verification for cyber-physical systems._
-
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** solc-verify: A Modular Verifier for Solidity Smart Contracts  
   _With D. Jovanović_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
@@ -57,6 +49,14 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _With A. Vörös, T. Bartha_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icatpn2015.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)
 
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
+
+## <i class="fas fa-cogs fa-fw"></i> Research Projects
+- 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
+  _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
+- 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**  
+  _Application of formal methods to verify industrial control code._
+- 2016 - present: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
+  _Functional verification for cyber-physical systems._
 
 ## <i class="fas fa-book fa-fw"></i> Teaching
 - **Current**: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
