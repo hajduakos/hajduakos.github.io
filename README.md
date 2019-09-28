@@ -45,16 +45,16 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Functional verification for cyber-physical systems._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
-- **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** solc-verify: A Modular Verifier for Solidity Smart Contracts &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)  
-  _With D. Jovanović_
-- **[SCP'18](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/157)** Industrial Applications of the PetriDotNet Modelling and Analysis Tool &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)  
-  _With A. Vörös, D. Darvas, A. Klenik, K. Marussy, V. Molnár, T. Bartha, I. Majzik_
-- **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** Theta: a Framework for Abstraction Refinement-Based Model Checking &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/theta-a-framework-for-abstraction-refinementbased-model-checking)  
-  _With T. Tóth, A. Vörös, Z. Micskei, I. Majzik_
-- **[FORTE'16](http://2016.discotec.org/)** A Configurable CEGAR Framework with Interpolation-based Refinements &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/forte2016.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements)  
-  _With T. Tóth, A. Vörös, I. Majzik_
-- **[ICATPN'15](http://di.ulb.ac.be/verif/pn2015acsd2015/)** New search strategies for the Petri net CEGAR approach &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icatpn2015.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)  
-  _With A. Vörös, T. Bartha_
+- **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** solc-verify: A Modular Verifier for Solidity Smart Contracts  
+  _With D. Jovanović_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
+- **[SCP'18](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/157)** Industrial Applications of the PetriDotNet Modelling and Analysis Tool  
+  _With A. Vörös, D. Darvas, A. Klenik, K. Marussy, V. Molnár, T. Bartha, I. Majzik_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
+- **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** Theta: a Framework for Abstraction Refinement-Based Model Checking  
+  _With T. Tóth, A. Vörös, Z. Micskei, I. Majzik_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/theta-a-framework-for-abstraction-refinementbased-model-checking)
+- **[FORTE'16](http://2016.discotec.org/)** A Configurable CEGAR Framework with Interpolation-based Refinements  
+  _With T. Tóth, A. Vörös, I. Majzik_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/forte2016.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements)
+- **[ICATPN'15](http://di.ulb.ac.be/verif/pn2015acsd2015/)** New search strategies for the Petri net CEGAR approach  
+  _With A. Vörös, T. Bartha_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icatpn2015.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)
 
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
