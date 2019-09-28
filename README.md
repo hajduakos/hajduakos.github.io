@@ -52,7 +52,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** Theta: a Framework for Abstraction Refinement-Based Model Checking &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/theta-a-framework-for-abstraction-refinementbased-model-checking)  
   _With T. Tóth, A. Vörös, Z. Micskei, I. Majzik_
 - **[FORTE'16](http://2016.discotec.org/)** A Configurable CEGAR Framework with Interpolation-based Refinements &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/forte2016.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements)  
-  _With _T. Tóth, A. Vörös, I. Majzik_
+  _With T. Tóth, A. Vörös, I. Majzik_
 - **[ICATPN'15](http://di.ulb.ac.be/verif/pn2015acsd2015/)** New search strategies for the Petri net CEGAR approach &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icatpn2015.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach)  
   _With A. Vörös, T. Bartha_
 
