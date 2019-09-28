@@ -60,7 +60,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-book fa-fw"></i> Teaching
 - **Current**: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
-- **Former**: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Surveillance (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
+- **Former**: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Supervision (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
 
 ## <i class="fas fa-university fa-fw"></i> Service
 - **Subreviewer**: [VSTTE'19](https://sri-csl.github.io/VSTTE19/), [HASE'19](http://cloud.hdu.edu.cn/hase2019/), [LADC’18](http://www.inf.unioeste.br/ladc2018/), [SRDS’17](http://srds2017.comp.polyu.edu.hk/)
