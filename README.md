@@ -37,6 +37,8 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Data analysis framework of CERN for high energy physics._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
+- **[ESOP'20](https://www.etaps.org/2020/esop)** SMT-Friendly Formalization of the Solidity Memory Model  
+  _With D. Jovanović_
 - **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** Efficient Strategies for CEGAR-Based Model Checking  
   _With Z. Micskei_  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** solc-verify: A Modular Verifier for Solidity Smart Contracts  
