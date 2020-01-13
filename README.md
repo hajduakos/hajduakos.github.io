@@ -17,9 +17,9 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Research Visits, Internships
-- 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (3 months)  
+- 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
   _Formalizing and verifying advanced data structures in Solidity._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/2001.03256.pdf)
-- 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (3 months)  
+- 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
   _Developing solc-verify, a formal verification tool for Solidity smart contracts._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262.pdf)
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
   _Working on functional verification for cyber-physical systems._ &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
