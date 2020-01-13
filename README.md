@@ -17,14 +17,16 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Research Visits, Internships
-- 2018-19: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (2x3 months)  
-  _Formal verification of Solidity smart contracts on the Ethereum blockchain._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262)
+- 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (3 months)  
+  _Formalizing and verifying advanced data structures in Solidity._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/2001.03256.pdf)
+- 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (3 months)  
+  _Developing solc-verify, a formal verification tool for Solidity smart contracts._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262.pdf)
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
-  _Development of functional verification for cyber-physical systems._ &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
+  _Working on functional verification for cyber-physical systems._ &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks)  
-  _Development of code generation in the ROOT data analysis framework._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/root-project/root) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;report](http://cds.cern.ch/record/2044503)
+  _Developing code generation in ROOT, a data analysis framework for the experiments._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/root-project/root) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;report](http://cds.cern.ch/record/2044503)
 - 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship (6 weeks)  
-  _Modeling and analysis of public transportation networks using Petri nets._ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)  
+  _Modeling and analyzing public transportation networks using Petri nets._ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2018 - present: **[solc-verify <i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity)**  
@@ -38,7 +40,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ESOP'20](https://www.etaps.org/2020/esop)** SMT-Friendly Formalization of the Solidity Memory Model  
-  _With D. Jovanović_
+  _With D. Jovanović_ &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/2001.03256.pdf)
 - **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** Efficient Strategies for CEGAR-Based Model Checking  
   _With Z. Micskei_  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** solc-verify: A Modular Verifier for Solidity Smart Contracts  
