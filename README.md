@@ -9,8 +9,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education and Degrees
 - 2016 - present: **Budapest University of Technology and Economics**  
-  PhD student/candidate  
-  _Advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_
+  PhD student/candidate, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_
 - 2014 - 2016: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
 - 2010 - 2014: **Budapest University of Technology and Economics**  
