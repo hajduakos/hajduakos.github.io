@@ -19,7 +19,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
   _Formalizing and verifying advanced data structures in Solidity._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/2001.03256.pdf)
 - 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
-  _Developing solc-verify, a formal verification tool for Solidity smart contracts._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262.pdf)
+  _Developing solc-verify, a formal verification tool for Solidity smart contracts._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf)
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
   _Working on functional verification for cyber-physical systems._ &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks)  
@@ -43,7 +43,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** **Efficient Strategies for CEGAR-Based Model Checking**  
   With Z. Micskei  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/1907.04262.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
+  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts)
 - **[SCP'18](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/157)** **Industrial Applications of the PetriDotNet Modelling and Analysis Tool**  
   With A. Vörös, D. Darvas, A. Klenik, K. Marussy, V. Molnár, T. Bartha, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
 - **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** **Theta: a Framework for Abstraction Refinement-Based Model Checking**  
