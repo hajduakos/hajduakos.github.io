@@ -13,7 +13,7 @@
 
 	url_pdf    = {https://hajduakos.github.io/publications/splst2013.pdf},
 	url_link   = {http://www.inf.u-szeged.hu/projectdirs/splst13/splst13proc.pdf},
-	url_slides = {http://www.slideshare.net/AkosHajdu/extensions-to-the-cegar-approach-on-petri-nets},
+	url_slides = {https://hajduakos.github.io/publications/slides/splst2013.pdf},
 
 	abstract   = {Formal verification is becoming more prevalent and often compulsory in the safety-critical system and software development processes. Reachability analysis can provide information about safety and invariant properties of the developed system. However, checking the reachability is a computationally hard problem, especially in the case of asynchronous or infinite state systems. Petri nets are widely used for the modeling and verification of such systems. In this paper we examine a recently published approach for the reachability checking of Petri net markings. We give proofs concerning the completeness and the correctness properties of the algorithm, and we introduce algorithmic improvements. We also extend the algorithm to handle new classes of problems: submarking coverability and reachability of Petri nets with inhibitor arcs.},
 }
@@ -53,7 +53,7 @@
 
 	url_pdf    = {https://hajduakos.github.io/publications/vocal2014.pdf},
 	url_link   = {http://nikk.mik.uni-pannon.hu/images/II_final_.pdf},
-	url_slides = {http://www.slideshare.net/AkosHajdu/petri-net-based-trajectory-optimization},
+	url_slides = {https://hajduakos.github.io/publications/slides/vocal2014.pdf},
 
 	abstract   = {Optimization problems are becoming more prevalent in the design of complex systems. Petri nets are widely used for the modeling of such systems. An optimization problem can be translated to find an optimal trajectory where a cost is assigned to each step. The reachability problem of Petri nets answers whether a given state is reachable from the initial state. However, reachability analysis is a computationally hard problem, especially in the case of asynchronous or infinite state systems. In this paper we examine a recently published algorithm that solves reachability using abstraction methods and we extend this approach to be able to handle optimal trajectory problems.},
 }
@@ -76,7 +76,7 @@
 
 	url_pdf    = {https://hajduakos.github.io/publications/icatpn2015.pdf},
 	url_link   = {http://link.springer.com/chapter/10.1007/978-3-319-19488-2_16},
-	url_slides = {http://www.slideshare.net/AkosHajdu/new-search-strategies-for-the-petri-net-cegar-approach},
+	url_slides = {https://hajduakos.github.io/publications/slides/icatpn2015.pdf},
 
 	abstract   = {Petri nets are a successful formal method for the modeling and verification of asynchronous, concurrent and distributed systems. Reachability analysis can provide important information about the behavior of the model. However, reachability analysis is a computationally hard problem, especially when the state space is infinite. Abstraction-based techniques are often applied to overcome complexity. In this paper we analyze an algorithm, which uses counterexample guided abstraction refinement. This algorithm proved its efficiency on the model checking contest. We examine the algorithm from a theoretical and practical point of view. On the theoretical side, we show that the algorithm cannot decide reachability for relatively simple instances. We propose a new iteration strategy to explore the invariant space, which extends the set of decidable problems. We also give proofs on the theoretical limits of our approach. On the practical side, we examine different search strategies and we present our new, complex strategy with superior performance compared to traditional strategies. Measurements show that our new contributions perform well for traditional benchmark models as well.},
 }
@@ -116,7 +116,7 @@
 
 	url_pdf    = {https://hajduakos.github.io/publications/forte2016.pdf},
 	url_link   = {http://link.springer.com/chapter/10.1007/978-3-319-39570-8_11},
-	url_slides = {http://www.slideshare.net/AkosHajdu/a-configurable-cegar-framework-with-interpolationbased-refinements},
+	url_slides = {https://hajduakos.github.io/publications/slides/forte2016.pdf},
 
 	abstract   = {Correctness of software components in a distributed system is a key issue to ensure overall reliability. Formal verification techniques such as model checking can show design flaws at early stages of development. Abstraction is a key technique for reducing complexity by hiding information, which is not relevant for verification. Counterexample-Guided Abstraction Refinement (CEGAR) is a verification algorithm that starts from a coarse abstraction and refines it iteratively until the proper precision is obtained. Many abstraction types and refinement strategies exist for systems with different characteristics. In this paper we show how these algorithms can be combined into a configurable CEGAR framework. In our framework we also present a new CEGAR configuration based on a combination of abstractions, being able to perform better for certain models. We demonstrate the use of the framework by comparing several configurations of the algorithms on various problems, identifying their advantages and shortcomings.},
 }
@@ -160,7 +160,7 @@
 
     url_pdf    = {https://hajduakos.github.io/publications/minisy2017.pdf},
     url_link   = {https://doi.org/10.5281/zenodo.291895},
-    url_slides = {http://www.slideshare.net/AkosHajdu/exploratory-analysis-of-the-performance-of-a-configurable-cegar-framework},
+	url_slides = {https://hajduakos.github.io/publications/slides/minisy2017.pdf},
 
     abstract   = {Formal verification techniques can check the correctness of systems in a mathematically precise way. However, their computational complexity often prevents their successful application. The counterexample-guided abstraction refinement (CEGAR) algorithm aims to overcome this problem by automatically building abstractions for the system to reduce its complexity. Previously, we developed a generic CEGAR framework, which incorporates many configurations of the algorithm. In this paper we focus on an exploratory analysis of our framework. We identify parameters of the systems and algorithm configurations, overview some possible analysis methods and present preliminary results. We show that different variants are more efficient for certain tasks and we also describe how the properties of the system and parameters of the algorithm affect the success of verification.},
 }
@@ -203,7 +203,7 @@
 
     url_pdf    = {https://hajduakos.github.io/publications/fesca2017.pdf},
     url_link   = {http://eptcs.web.cse.unsw.edu.au/paper.cgi?FESCA2017.3},
-    url_slides = {http://www.slideshare.net/AkosHajdu/exploiting-hierarchy-in-the-abstractionbased-verification-of-statecharts-using-smt-solvers},
+	url_slides = {https://hajduakos.github.io/publications/slides/fesca2017.pdf},
 
     abstract   = {Statecharts are frequently used as a modeling formalism in the design of state-based systems. Formal verification techniques are also often applied to prove certain properties about the behavior of the system. One of the most efficient techniques for formal verification is Counterexample-Guided Abstraction Refinement (CEGAR), which reduces the complexity of systems by automatically building and refining abstractions. In our paper we present a novel adaptation of the CEGAR approach to hierarchical statechart models. First we introduce an encoding of the statechart to logical formulas that preserves information about the state hierarchy. Based on this encoding we propose abstraction and refinement techniques that utilize the hierarchical structure of statecharts and also handle variables in the model. The encoding allows us to use SMT solvers for the systematic exploration and verification of the abstract model, including also bounded model checking. We demonstrate the applicability and efficiency of our abstraction techniques with measurements on an industry-motivated example.},
 }
@@ -225,7 +225,7 @@
 
     url_pdf    = {https://hajduakos.github.io/publications/vpt2017.pdf},
     url_link   = {http://eptcs.web.cse.unsw.edu.au/paper.cgi?VPT2017.7},
-    url_slides = {http://www.slideshare.net/AkosHajdu/towards-evaluating-size-reduction-techniques-for-software-model-checking},
+	url_slides = {https://hajduakos.github.io/publications/slides/vpt2017.pdf},
 
     abstract   = {Formal verification techniques are widely used for detecting design flaws in software systems. Formal verification can be done by transforming an already implemented source code to a formal model and attempting to prove certain properties of the model (e.g. that no erroneous state can occur during execution). Unfortunately, transformations from source code to a formal model often yield large and complex models, making the verification process inefficient and costly. In order to reduce the size of the resulting model, optimization transformations can be used. Such optimizations include common algorithms known from compiler design and different program slicing techniques. Our paper describes a framework for transforming C programs to a formal model, enhanced by various optimizations for size reduction. We evaluate and compare several optimization algorithms regarding their effect on the size of the model and the efficiency of the verification. Results show that different optimizations are more suitable for certain models, justifying the need for a framework that includes several algorithms.}
 }
@@ -264,7 +264,7 @@
 
     url_pdf    = {https://hajduakos.github.io/publications/fmcad2017.pdf},
     url_link   = {http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/proceedings/},
-    url_slides = {https://www.slideshare.net/AkosHajdu/theta-a-framework-for-abstraction-refinementbased-model-checking},
+	url_slides = {https://hajduakos.github.io/publications/slides/fmcad2017.pdf},
 
     abstract   = {In this paper, we present Theta, a configurable model checking framework. The goal of the framework is to support the design, execution and evaluation of abstraction refinement-based reachability analysis algorithms for models of different formalisms. It enables the definition of input formalisms, abstract domains, model interpreters, and strategies for abstraction and refinement. Currently it contains front-end support for transition systems, control flow automata and timed automata. The built-in abstract domains include predicates, explicit values, zones and their combinations, along with various refinement strategies implemented for each. The configurability of the framework allows the integration of several abstraction and refinement methods, this way supporting the evaluation of their advantages and shortcomings. We demonstrate the applicability of the framework by use cases for the safety checking of PLC, hardware, C programs and timed automata models.},
 }
@@ -286,7 +286,7 @@
 
     url_pdf    = {https://hajduakos.github.io/publications/minisy2018.pdf},
     url_link   = {https://doi.org/10.5281/zenodo.1219261},
-    url_slides = {https://www.slideshare.net/AkosHajdu/a-preliminary-analysis-on-the-effect-of-randomness-in-a-cegar-framework},
+	url_slides = {https://hajduakos.github.io/publications/slides/minisy2018.pdf},
 
     abstract   = {Formal verification techniques can check the correctness of systems in a mathematically precise way. Counterexample-Guided Abstraction Refinement (CEGAR) is an automatic algorithm that reduces the complexity of systems by constructing and refining abstractions. CEGAR is a generic approach, having many variants and strategies developed over the years. However, as the variants become more and more advanced, one may not be sure whether the performance of a strategy can be attributed to the strategy itself or to other, unintentional factors. In this paper we perform an experiment by evaluating the performance of different strategies while randomizing certain external factors such as the search strategy and variable naming. We show that randomization introduces a great variation in the output metrics, and that in several cases this might even influence whether the algorithm successfully terminates.},
 }
@@ -352,7 +352,7 @@
 
     url_pdf    = {https://hajduakos.github.io/publications/vstte2019.pdf},
     url_link   = {https://link.springer.com/chapter/10.1007/978-3-030-41600-3_11},
-    url_slides = {https://www.slideshare.net/AkosHajdu/solcverify-a-modular-verifier-for-solidity-smart-contracts},
+	url_slides = {https://hajduakos.github.io/publications/slides/vstte2019.pdf},
 
     abstract   = {We present solc-verify, a source-level verification tool for Ethereum smart contracts. Solc-verify takes smart contracts written in Solidity and discharges verification conditions using modular program analysis and SMT solvers. Built on top of the Solidity compiler, solc-verify reasons at the level of the contract source code, as opposed to the more common approaches that operate at the level of Ethereum bytecode. This enables solc-verify to effectively reason about high-level contract properties while modeling low-level language semantics precisely. The contract properties, such as contract invariants, loop invariants, and function pre- and post-conditions, can be provided as annotations in the code by the developer. This enables automated, yet user-friendly formal verification for smart contracts. We demonstrate solc-verify by examining real-world examples where our tool can effectively find bugs and prove correctness of non-trivial properties with minimal user effort.},
 }
