@@ -17,7 +17,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-globe fa-fw"></i> Research Visits, Internships
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
-  _Formalizing and verifying advanced data structures in Solidity._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/2001.03256.pdf)
+  _Formalizing and verifying advanced data structures in Solidity._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf)
 - 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
   _Developing solc-verify, a formal verification tool for Solidity smart contracts._ &nbsp;[<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf)
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
@@ -39,7 +39,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ESOP'20](https://www.etaps.org/2020/esop)** **SMT-Friendly Formalization of the Solidity Memory Model**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://arxiv.org/pdf/2001.03256.pdf)
+  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf)
 - **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** **Efficient Strategies for CEGAR-Based Model Checking**  
   With Z. Micskei  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
