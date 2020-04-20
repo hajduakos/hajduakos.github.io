@@ -4,10 +4,11 @@ description: Computer scientist
 title1: PhD Candidate
 affiliation1: BME MIT FTSRG
 website1: http://inf.mit.bme.hu/en
-scholar: https://scholar.google.hu/citations?user=7z74iO8AAAAJ
+scholar: 7z74iO8AAAAJ
 mail: hajdua@mit.bme.hu
-linkedin: https://www.linkedin.com/in/akoshajdu/
+linkedin: akoshajdu
 dblp: https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos
 cv: https://hajduakos.github.io/hajdua-cv/hajdua_cv_en.pdf
 cvlong: https://hajduakos.github.io/hajdua-cv/hajdua_cv_en_long.pdf
+twitter: himynameisakos
 theme: jekyll-theme-minimal
