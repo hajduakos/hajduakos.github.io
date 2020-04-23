@@ -35,14 +35,16 @@
         {% endif %}
         </p>
         
-        <p class="view">
+        <p>
         {% if site.mail %}
           <i class="fas fa-envelope fa-fw"></i> {{ site.mail }}<br />
         {% endif %}
         {% if site.cv %}
           <i class="fas fa-file-pdf fa-fw"></i> <a href="{{ site.cv }}">Short CV</a> &nbsp; <a href="{{ site.cvlong }}">Long CV</a><br />
         {% endif %}
+        </p>
         
+        <p>
         {% if site.linkedin %}
           <a href="https://www.linkedin.com/in/{{ site.linkedin }}"><i class="fab fa-linkedin fa-2x"></i></a>
         {% endif %}
