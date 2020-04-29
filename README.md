@@ -46,10 +46,10 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf)
 - 2012 - 2016: **PetriDotNet**  
   _Petri net modeling and analysis framework._  
-  [<i class="fas fa-external-link-alt"></i>&nbsp;](https://inf.mit.bme.hu/en/research/tools/petridotnet) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
+  [<i class="fas fa-external-link-alt"></i>&nbsp;Website](https://inf.mit.bme.hu/en/research/tools/petridotnet) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
 - 2015 - 2015: **ROOT**  
   _Data analysis framework of CERN for high energy physics._  
-  [<i class="fab fa-github"></i>&nbsp;](https://github.com/root-project/root) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;report](http://cds.cern.ch/record/2044503)
+  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/root-project/root) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;report](http://cds.cern.ch/record/2044503)
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ESOP'20](https://www.etaps.org/2020/esop)** **SMT-Friendly Formalization of the Solidity Memory Model**  
