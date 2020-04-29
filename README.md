@@ -3,8 +3,8 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-fire fa-fw"></i> News
 - **2020/04/29** Gave a talk at the [Solidity Summit](https://solidity-summit.ethereum.org/), on formal verification. See [slides and examples](https://github.com/hajduakos/solidity-summit-demo).
-- **2020/04/18** Our ESOP paper on formalization of the Solidity memory model_ is [published](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9).
-- **2019/11/11** Our JAR paper on CEGAR-based model checking_ is [published](https://link.springer.com/article/10.1007%2Fs10817-019-09535-x).
+- **2020/04/18** Our ESOP paper on formalization of the Solidity memory model is [published](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9).
+- **2019/11/11** Our JAR paper on CEGAR-based model checking is [published](https://link.springer.com/article/10.1007%2Fs10817-019-09535-x).
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
 - Formal methods, model checking, SMT, abstraction, CEGAR
