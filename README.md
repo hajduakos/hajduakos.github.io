@@ -1,6 +1,11 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
+## <i class="fas fa-fire fa-fw"></i> News
+- 2020/04/29 I gave a talk at the [2020 Solidity Summit](https://solidity-summit.ethereum.org/), on source-level verification for Solidity. See [slides and examples](https://github.com/hajduakos/solidity-summit-demo).
+- 2020/04/18 Our ESOP 2020 paper, _SMT-Friendly Formalization of the Solidity Memory Model_, is [published](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9).
+- 2019/11/11 Our JAR paper, _Efficient Strategies for CEGAR-Based Model Checking_, is [published](https://link.springer.com/article/10.1007%2Fs10817-019-09535-x).
+
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
 - Formal methods, model checking, SMT, abstraction, CEGAR
 - Verification of software, smart contracts and Petri nets
