@@ -43,7 +43,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp; [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf)
 - 2016 - present: **Theta**  
   _Generic, modular and configurable verification framework._  
-  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf)
+  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;Talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
 - 2012 - 2016: **PetriDotNet**  
   _Petri net modeling and analysis framework._  
   [<i class="fas fa-external-link-alt"></i>&nbsp;Website](https://inf.mit.bme.hu/en/research/tools/petridotnet) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
