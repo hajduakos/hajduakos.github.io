@@ -2,7 +2,7 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
-- **2020/04/29** Gave a talk at the [Solidity Summit](https://solidity-summit.ethereum.org/), on formal verification. See [slides and examples](https://github.com/hajduakos/solidity-summit-demo).
+- **2020/04/29** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/lhjo2FuU4v0?t=3654) at the [Solidity Summit](https://solidity-summit.ethereum.org/), on formal verification.
 - **2020/04/18** Our ESOP paper on formalization of the Solidity memory model is [published](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9).
 - **2019/11/11** Our JAR paper on CEGAR-based model checking is [published](https://link.springer.com/article/10.1007%2Fs10817-019-09535-x).
 
@@ -40,7 +40,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2018 - present: **solc-verify**  
   _Automated formal verification for Solidity smart contracts._  
-  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp; [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf)
+  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp; [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp; [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/lhjo2FuU4v0?t=3654)
 - 2016 - present: **Theta**  
   _Generic, modular and configurable verification framework._  
   [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
