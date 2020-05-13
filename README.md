@@ -40,7 +40,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2018 - present: **solc-verify**  
   _Automated formal verification for Solidity smart contracts._  
-  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp; [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp; [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/lhjo2FuU4v0?t=3654)
+  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp; [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp; [<i class="fas fa-video"></i>&nbsp;talk](https://www.youtube.com/watch?v=1q2gSm3NuQA)
 - 2016 - present: **Theta**  
   _Generic, modular and configurable verification framework._  
   [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
