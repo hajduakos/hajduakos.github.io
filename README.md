@@ -2,6 +2,7 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
+- **2020/06/11** I will give a talk at [SMT@IJCAR 2020](https://fscd-ijcar-2020.org/workshops#SMT) on formalizing the Solidity memory model.
 - **2020/05/20** [Preprint](https://arxiv.org/abs/2005.10382) on specification and verification of Solidity contracts with events.
 - **2020/04/29** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://www.youtube.com/watch?v=1q2gSm3NuQA) at the [Solidity Summit](https://solidity-summit.ethereum.org/), on formal verification.
 - **2020/04/18** Our ESOP paper on formalization of the Solidity memory model is [published](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9).
