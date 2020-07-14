@@ -73,10 +73,10 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-cogs fa-fw"></i> Research Projects
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
   _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
+- 2016 - 2020: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
+  _Functional verification for cyber-physical systems._
 - 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**  
   _Application of formal methods to verify industrial control code._
-- 2016 - present: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
-  _Functional verification for cyber-physical systems._
 
 ## <i class="fas fa-book fa-fw"></i> Teaching
 - **Current**: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
