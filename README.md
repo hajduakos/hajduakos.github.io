@@ -57,7 +57,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ESOP'20](https://www.etaps.org/2020/esop)** **SMT-Friendly Formalization of the Solidity Memory Model**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/smt2020.pdf) [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)[<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)
+  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/smt2020.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)
 - **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** **Efficient Strategies for CEGAR-Based Model Checking**  
   With Z. Micskei  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
