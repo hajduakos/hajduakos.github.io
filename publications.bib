@@ -391,24 +391,27 @@
     keywords   = {smart contracts, modular verification},
 
     url_pdf    = {https://hajduakos.github.io/publications/esop2020.pdf},
+    url_link   = {https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9},
 	url_slides = {https://hajduakos.github.io/publications/slides/smt2020.pdf},
-
+    url_video  = {https://youtu.be/B3ML9vGituk?t=626},
     abstract   = {Solidity is the dominant programming language for Ethereum smart contracts. This paper presents a high-level formalization of the Solidity language with a focus on the memory model. The presented formalization covers all features of the language related to managing state and memory. In addition, the formalization we provide is effective: all but few features can be encoded in the quantifier-free fragment of standard SMT theories. This enables precise and efficient reasoning about the state of smart contracts written in Solidity. The formalization is implemented in the solc-verify verifier and we provide an extensive set of tests that covers the breadth of the required semantics. We also provide an evaluation on the test set that validates the semantics and shows the novelty of the approach compared to other Solidity-level contract analysis tools. },
 }
 
 @inproceedings{fmbc2020,
-    author    = {{\'A}kos Hajdu and Jovanovi\'c, Dejan and Ciocarlie, Gabriela},
-    title     = {Formal Specification and Verification of {S}olidity Contracts with Events (short paper)},
-    booktitle = {2nd Workshop on Formal Methods for Blockchains},
-    year      = {2020},
-    note      = {(Accepted for presentation; post-proceedings pending)},
+    author     = {{\'A}kos Hajdu and Jovanovi\'c, Dejan and Ciocarlie, Gabriela},
+    title      = {Formal Specification and Verification of {S}olidity Contracts with Events (short paper)},
+    booktitle  = {2nd Workshop on Formal Methods for Blockchains},
+    year       = {2020},
+    note       = {(Accepted for presentation; post-proceedings pending)},
 
-    type      = {Workshop},
-    keywords  = {smart contracts, modular verification},
+    type       = {Workshop},
+    keywords   = {smart contracts, modular verification},
 
-    url_pdf   = {https://arxiv.org/pdf/2005.10382.pdf},
-    url_link  = {https://arxiv.org/abs/2005.10382},
-    abstract  = {Events in the Solidity language provide a means of communication between the on-chain services of decentralized applications and the users of those services. Events are commonly used as an abstraction of contract execution that is relevant from the users' perspective. Users must, therefore, be able to understand the meaning and trust the validity of the emitted events. This paper presents a source-level approach for the formal specification and verification of Solidity contracts with the primary focus on events. Our approach allows specification of events in terms of the on-chain data that they track, and predicates that define the correspondence between the blockchain state and the abstract view provided by the events. The approach is implemented in solc-verify, a modular verifier for Solidity, and we demonstrate its applicability with various examples.}
+    url_pdf    = {https://arxiv.org/pdf/2005.10382.pdf},
+    url_link   = {https://arxiv.org/abs/2005.10382},
+	url_slides = {https://hajduakos.github.io/publications/slides/fmbc2020.pdf},
+    url_video  = {https://youtu.be/NNytwVBZ1no},
+    abstract   = {Events in the Solidity language provide a means of communication between the on-chain services of decentralized applications and the users of those services. Events are commonly used as an abstraction of contract execution that is relevant from the users' perspective. Users must, therefore, be able to understand the meaning and trust the validity of the emitted events. This paper presents a source-level approach for the formal specification and verification of Solidity contracts with the primary focus on events. Our approach allows specification of events in terms of the on-chain data that they track, and predicates that define the correspondence between the blockchain state and the abstract view provided by the events. The approach is implemented in solc-verify, a modular verifier for Solidity, and we demonstrate its applicability with various examples.}
 }
 
 @misc{patent2020,
@@ -418,6 +421,9 @@
     month     = {June},
     note      = {US Patent App. 16/227,728},
     
+    type      = {Patent application},
+    keywords  = {smart contracts, modular verification},
+
     url_link  = {http://www.freepatentsonline.com/y2020/0201838.html},
     abstract  = {A method, apparatus and system for automated verification of a smart contract on a blockchain include translating operating properties of a smart contract annotated with contract specifications at a source code level into verification conditions in an intermediate verification language, discharging the verification conditions using an SMT solver, and reporting results of the discharged verification conditions, such as successes and failures of the discharged verification conditions. The translating can include mapping statements of the smart contract to statements of the intermediate verification language and mapping expressions of the smart contract to expressions of the intermediate verification language. }
 }
