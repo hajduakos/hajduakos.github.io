@@ -44,7 +44,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2018 - present: **solc-verify**  
   _Automated formal verification for Solidity smart contracts._  
-  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp; [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp; [<i class="fas fa-video"></i>&nbsp;talk](https://www.youtube.com/watch?v=1q2gSm3NuQA)
+  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://www.youtube.com/watch?v=1q2gSm3NuQA)
 - 2016 - present: **Theta**  
   _Generic, modular and configurable verification framework._  
   [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
@@ -57,7 +57,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ESOP'20](https://www.etaps.org/2020/esop)** **SMT-Friendly Formalization of the Solidity Memory Model**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/smt2020.pdf)
+  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/smt2020.pdf) [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)[<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)
 - **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** **Efficient Strategies for CEGAR-Based Model Checking**  
   With Z. Micskei  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
@@ -65,7 +65,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **[SCP'18](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/157)** **Industrial Applications of the PetriDotNet Modelling and Analysis Tool**  
   With A. Vörös, D. Darvas, A. Klenik, K. Marussy, V. Molnár, T. Bartha, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
 - **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** **Theta: a Framework for Abstraction Refinement-Based Model Checking**  
-  With T. Tóth, A. Vörös, Z. Micskei, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/fmcad2017.pdf)
+  With T. Tóth, A. Vörös, Z. Micskei, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
 - **[ICATPN'15](http://di.ulb.ac.be/verif/pn2015acsd2015/)** **New search strategies for the Petri net CEGAR approach**  
   With A. Vörös, T. Bartha &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icatpn2015.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/icatpn2015.pdf)
 
@@ -74,6 +74,8 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-cogs fa-fw"></i> Research Projects
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
   _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
+- 2019 - present: **[Arrowhead Tools](https://www.arrowhead.eu/arrowheadtools)**  
+  _Automated tool chain for verication and validation of systems under development._
 - 2016 - 2020: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
   _Functional verification for cyber-physical systems._
 - 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**  
