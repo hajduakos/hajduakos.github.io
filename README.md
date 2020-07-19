@@ -33,7 +33,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   [<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf)
 - 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
   _Working on functional verification for cyber-physical systems._  
-  [<i class="fas fa-comment-alt"></i>&nbsp;talk](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
+  [<i class="fas fa-comment-alt"></i>&nbsp;slides](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
 - 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks)  
   _Developing code generation in ROOT, a data analysis framework for the experiments._  
   [<i class="fab fa-github"></i>&nbsp;tool](https://github.com/root-project/root) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;report](http://cds.cern.ch/record/2044503)
@@ -57,17 +57,17 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ESOP'20](https://www.etaps.org/2020/esop)** **SMT-Friendly Formalization of the Solidity Memory Model**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/smt2020.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)
+  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/smt2020.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)
 - **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** **Efficient Strategies for CEGAR-Based Model Checking**  
   With Z. Micskei  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/vstte2019.pdf)
+  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/vstte2019.pdf)
 - **[SCP'18](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/157)** **Industrial Applications of the PetriDotNet Modelling and Analysis Tool**  
   With A. Vörös, D. Darvas, A. Klenik, K. Marussy, V. Molnár, T. Bartha, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
 - **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** **Theta: a Framework for Abstraction Refinement-Based Model Checking**  
-  With T. Tóth, A. Vörös, Z. Micskei, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
+  With T. Tóth, A. Vörös, Z. Micskei, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
 - **[ICATPN'15](http://di.ulb.ac.be/verif/pn2015acsd2015/)** **New search strategies for the Petri net CEGAR approach**  
-  With A. Vörös, T. Bartha &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icatpn2015.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/icatpn2015.pdf)
+  With A. Vörös, T. Bartha &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icatpn2015.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/icatpn2015.pdf)
 
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
