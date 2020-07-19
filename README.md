@@ -2,7 +2,7 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
-- **2020/07/19** Gave an invited talk at [WoSCA@ISSTA 2020](https://conf.researchr.org/track/issta-2020/issta-2020-wosca) on the Solidity memory model [<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/wosca2020.pdf).
+- **2020/07/19** Gave an invited [<i class="fas fa-comment-alt"></i>&nbsp;talk](publications/slides/wosca2020.pdf) at [WoSCA@ISSTA 2020](https://conf.researchr.org/track/issta-2020/issta-2020-wosca) on the Solidity memory model.
 - **2020/07/05** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626) at [SMT@IJCAR 2020](https://fscd-ijcar-2020.org/workshops#SMT) on formalizing the Solidity memory model.
 - **2020/06/24** [Paper](https://arxiv.org/abs/2005.10382) on Solidity event verification accepted for presentation at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/).
 - **2020/06/20** [Preprint](https://arxiv.org/abs/2006.11597) on Solidity smart contract fault injection.
