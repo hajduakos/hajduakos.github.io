@@ -38,18 +38,14 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Modeling and analyzing public transportation networks using Petri nets._
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
-- 2018 - present: **solc-verify**  
-  _Automated formal verification for Solidity smart contracts._  
-  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://www.youtube.com/watch?v=1q2gSm3NuQA)
-- 2016 - present: **Theta**  
-  _Generic, modular and configurable verification framework._  
-  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
-- 2012 - 2016: **PetriDotNet**  
-  _Petri net modeling and analysis framework._  
-  [<i class="fas fa-external-link-alt"></i>&nbsp;Website](https://inf.mit.bme.hu/en/research/tools/petridotnet) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
-- 2015 - 2015: **ROOT**  
-  _Data analysis framework of CERN for high energy physics._  
-  [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/root-project/root) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;report](http://cds.cern.ch/record/2044503)
+- 2018 - present: **solc-verify** [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=1q2gSm3NuQA)  
+  _Automated formal verification for Solidity smart contracts._
+- 2016 - present: **Theta** [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
+  _Generic, modular and configurable verification framework._
+- 2012 - 2016: **PetriDotNet** [<i class="fas fa-external-link-alt"></i>](https://inf.mit.bme.hu/en/research/tools/petridotnet) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
+  _Petri net modeling and analysis framework._
+- 2015 - 2015: **ROOT** [<i class="fab fa-github"></i>](https://github.com/root-project/root) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2044503)  
+  _Data analysis framework of CERN for high energy physics._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ESOP'20](https://www.etaps.org/2020/esop)** **SMT-Friendly Formalization of the Solidity Memory Model**  
