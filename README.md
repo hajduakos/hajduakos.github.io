@@ -40,7 +40,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2018 - present: **solc-verify** [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=1q2gSm3NuQA)  
   _Automated formal verification for Solidity smart contracts._
-- 2016 - present: **Theta** [<i class="fab fa-github"></i>&nbsp;GitHub](https://github.com/FTSRG/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
+- 2016 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/FTSRG/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
   _Generic, modular and configurable verification framework._
 - 2012 - 2016: **PetriDotNet** [<i class="fas fa-external-link-alt"></i>](https://inf.mit.bme.hu/en/research/tools/petridotnet) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
   _Petri net modeling and analysis framework._
