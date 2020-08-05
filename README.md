@@ -27,19 +27,15 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-globe fa-fw"></i> Research Visits, Internships
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
-  _Formalizing and verifying advanced data structures in Solidity._  
-- 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
-  _Developing solc-verify, a formal verification tool for Solidity smart contracts._  
-  [<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf)
-- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks)  
-  _Working on functional verification for cyber-physical systems._  
-  [<i class="fas fa-comment-alt"></i>&nbsp;slides](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)
-- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks)  
-  _Developing code generation in ROOT, a data analysis framework for the experiments._  
-  [<i class="fab fa-github"></i>&nbsp;tool](https://github.com/root-project/root) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;report](http://cds.cern.ch/record/2044503)
-- 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship (6 weeks)  
-  _Modeling and analyzing public transportation networks using Petri nets._  
-  [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/scp2017.pdf)
+  _Formalizing and verifying advanced data structures in Solidity._
+- 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf)  
+  _Developing solc-verify, a formal verification tool for Solidity smart contracts._
+- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks) [<i class="fas fa-comment-alt"></i>](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)  
+  _Working on functional verification for cyber-physical systems._
+- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks) [<i class="fab fa-github"></i>](https://github.com/root-project/root) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2044503)  
+  _Developing code generation in ROOT, a data analysis framework for the experiments._
+- 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship (6 weeks) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
+  _Modeling and analyzing public transportation networks using Petri nets._
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2018 - present: **solc-verify**  
