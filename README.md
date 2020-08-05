@@ -2,7 +2,7 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
-- **2020/07/20** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/NNytwVBZ1no) at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/) on Solidity events.
+- **2020/07/20** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/NNytwVBZ1no) at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/) on Solidity event verification.
 - **2020/07/19** Gave an invited [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/-ojRvTrFfqU?t=1900) at [WoSCA@ISSTA 2020](https://conf.researchr.org/track/issta-2020/issta-2020-wosca) on the Solidity memory model.
 - **2020/07/05** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626) at [SMT@IJCAR 2020](https://fscd-ijcar-2020.org/workshops#SMT) on formalizing the Solidity memory model.
 - **2020/06/24** [Paper](https://arxiv.org/abs/2005.10382) on Solidity event verification accepted for presentation at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/).
@@ -26,9 +26,8 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Research Visits, Internships
-- 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
+- 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
   _Formalizing and verifying advanced data structures in Solidity._  
-  [<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf)
 - 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks)  
   _Developing solc-verify, a formal verification tool for Solidity smart contracts._  
   [<i class="fab fa-github"></i>&nbsp;tool](https://github.com/SRI-CSL/solidity) &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf)
