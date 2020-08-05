@@ -42,6 +42,8 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
   _Automated formal verification for Solidity smart contracts._
 - 2016 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/FTSRG/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
   _Generic, modular and configurable verification framework._
+- 2017 - 2018: **PLCVerif** [<i class="fab fa-gitlab"></i>](https://gitlab.com/plcverif-oss/)  
+  _PLC verification framework, supporting Theta as a backend._
 - 2012 - 2016: **PetriDotNet** [<i class="fas fa-external-link-alt"></i>](https://inf.mit.bme.hu/en/research/tools/petridotnet) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
   _Petri net modeling and analysis framework._
 - 2015 - 2015: **ROOT** [<i class="fab fa-github"></i>](https://github.com/root-project/root) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2044503)  
