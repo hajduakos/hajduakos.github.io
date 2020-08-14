@@ -11,7 +11,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **2020/04/18** Our [ESOP](https://etaps.org/2020/esop) paper on formalizing the Solidity memory model is [published](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9).
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
-- Formal methods, model checking, SMT, abstraction, CEGAR
+- Formal methods, model checking, static analysis, SAT/SMT
 - Verification of software, smart contracts and Petri nets
 - Tool and framework development
 - Experimental evaluation and analysis
@@ -80,7 +80,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **Former**: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Supervision (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
 
 ## <i class="fas fa-university fa-fw"></i> Service
-- **PC member**: [TAP'20-AE](https://tap.sosy-lab.org/2020/), [VMCAI'20-AE](https://popl20.sigplan.org/home/VMCAI-2020)
+- **PC member**: [TAP'20-AE](https://tap.sosy-lab.org/2020/), [VMCAI'20-AE](https://popl20.sigplan.org/home/VMCAI-2020), [OpenMBEE@MODELS'20](https://www.openmbee.org/models2020.html)
 - **Subreviewer**: [MODELS'20](http://www.modelsconference.org/), [VSTTE'19](https://sri-csl.github.io/VSTTE19/), [HASE'19](http://cloud.hdu.edu.cn/hase2019/), [LADC’18](http://www.inf.unioeste.br/ladc2018/), [SRDS’17](http://srds2017.comp.polyu.edu.hk/)
 - **Volunteer**: [DISC'19](http://www.disc-conference.org/wp/disc2019/), [AVM’17](http://avm2017.inf.mit.bme.hu/), [SRDS’16](http://srds2016.inf.mit.bme.hu/), [ICACON’15](http://icacon2015.inf.mit.bme.hu/), [DSN’13](http://2013.dsn.org/)
 - **Webmaster**: [DISC'19](http://www.disc-conference.org/wp/disc2019/)
