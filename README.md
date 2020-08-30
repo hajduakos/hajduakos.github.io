@@ -2,6 +2,7 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
+- **2020/08/20** Our paper on a cloud-based model checking service with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) was accepted to [OpenMBEE@MODELS 2020](https://www.openmbee.org/models2020.html).
 - **2020/07/20** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/NNytwVBZ1no) at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/) on Solidity event verification.
 - **2020/07/19** Gave an invited [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/-ojRvTrFfqU?t=1900) at [WoSCA@ISSTA 2020](https://conf.researchr.org/track/issta-2020/issta-2020-wosca) on the Solidity memory model.
 - **2020/07/05** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626) at [SMT@IJCAR 2020](https://fscd-ijcar-2020.org/workshops#SMT) on formalizing the Solidity memory model.
@@ -66,6 +67,8 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
 ## <i class="fas fa-cogs fa-fw"></i> Research Projects
+- 2019 - present: **MCaaS** (with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/))  
+  _Model Checking as a Service: cloud-based, push-button model checking for statecharts._
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
   _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
 - 2019 - present: **[Arrowhead Tools](https://www.arrowhead.eu/arrowheadtools)**  
