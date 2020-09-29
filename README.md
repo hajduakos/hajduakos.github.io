@@ -2,14 +2,12 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
-- **2020/08/20** Our paper on a cloud-based model checking service with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) was accepted to [OpenMBEE@MODELS 2020](https://www.openmbee.org/models2020.html).
+- **2020/08/20** Paper on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) accepted to [OpenMBEE@MODELS 2020](https://www.openmbee.org/models2020.html).
 - **2020/07/20** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/NNytwVBZ1no) at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/) on Solidity event verification.
 - **2020/07/19** Gave an invited [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/-ojRvTrFfqU?t=1900) at [WoSCA@ISSTA 2020](https://conf.researchr.org/track/issta-2020/issta-2020-wosca) on the Solidity memory model.
 - **2020/07/05** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626) at [SMT@IJCAR 2020](https://fscd-ijcar-2020.org/workshops#SMT) on formalizing the Solidity memory model.
 - **2020/06/24** [Paper](https://arxiv.org/abs/2005.10382) on Solidity event verification accepted for presentation at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/).
 - **2020/06/20** [Preprint](https://arxiv.org/abs/2006.11597) on Solidity smart contract fault injection.
-- **2020/04/29** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://www.youtube.com/watch?v=1q2gSm3NuQA) at the [Solidity Summit](https://solidity-summit.ethereum.org/), on formal verification.
-- **2020/04/18** Our [ESOP](https://etaps.org/2020/esop) paper on formalizing the Solidity memory model is [published](https://link.springer.com/chapter/10.1007/978-3-030-44914-8_9).
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
 - Formal methods, model checking, static analysis, SAT/SMT
