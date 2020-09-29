@@ -68,7 +68,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-cogs fa-fw"></i> Research Projects
 - 2019 - present: **MCaaS** (with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/))  
-  _Model Checking as a Service: cloud-based, push-button model checking for statecharts._
+  _Model Checking as a Service: cloud-based, push-button model checking for SysML statecharts._
 - 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
   _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
 - 2019 - present: **[Arrowhead Tools](https://www.arrowhead.eu/arrowheadtools)**  
