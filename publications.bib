@@ -436,12 +436,14 @@
 @inproceedings{openmbee2020,
     author     = {Benedek Horv{\'a}th and Bence Graics and {\'A}kos Hajdu and Zolt{\'a}n Micskei and Vince Moln{\'a}r and Istv{\'a}n R{\'a}th and Luigi Andolfato and Ivan Gomes and Robert Karban},
     title      = {Model Checking as a Service: Towards Pragmatic Hidden Formal Methods},
-    booktitle  = {1st Workshop on Open Model Based Engineering Environment},
+    booktitle  = {Proceedings of the ACM/IEEE 23rd International Conference on Model Driven Engineering Languages and Systems (MODELS '20 Companion)},
     year       = {2020},
     note       = {(Accepted)},
 
     type       = {Workshop},
     keywords   = {sysml, tool},
+	
+	abstract   = {Executable models can be used to support all engineering activities in Model-Based Systems Engineering. Testing and simulation of such models can provide early feedback about design choices. However, in today's complex systems, failures could arise due to subtle errors that are hard to find without checking all possible execution paths. Formal methods, and especially model checking can uncover such subtle errors, yet their usage in practice is limited due to the specialized expertise and high computing power required. Therefore we created an automated, cloud-based environment that can verify complex reachability properties on SysML State Machines using hidden model checkers. The approach and the prototype is illustrated using an example from the aerospace domain.},
 }
 
 @article{access2020,
@@ -449,11 +451,13 @@
 	title      = {Using Fault Injection to Assess Blockchain Systems in Presence of Faulty Smart Contracts},
 	journal    = {IEEE Access},
     year       = {2020},
-    note       = {(Accepted)},
+	doi        = {10.1109/ACCESS.2020.3032239},
+    note       = {(Accepted, in press, early access available)},
 	
 	type       = {journal},
 	keywords   = {smart contracts, fault injection},
 	
     url_pdf    = {https://arxiv.org/abs/2006.11597.pdf},
-    url_link   = {https://arxiv.org/abs/2006.11597},
+    url_link   = {https://ieeexplore.ieee.org/document/9229414},
+	abstract   = {Blockchain has become particularly popular due to its promise to support businesscritical services in very different domains (e.g., retail, healthcare). Blockchain systems rely on complex middleware, like Ethereum or Hyperledger Fabric, that allow running smart contracts, which specify business logic in cooperative applications. The presence of software defects in these contracts has notably caused failures, including severe security problems. In this paper, we use software-implemented fault injection (SWIFI) to assess the behavior of permissioned blockchain systems in the presence of faulty smart contracts. We emulate the occurrence of general software faults and also blockchain-specific software faults (e.g., missing require on transaction sender) in smart contracts code and observe the impact on the overall system dependability in terms of reliability and integrity. We also analyze the effectiveness of formal verification and runtime protection mechanisms in detecting the injected faults. Results indicate that formal verification and runtime protections have to complement built-in platform checks to guarantee proper dependability of blockchain systems. The work presented in this paper allows smart contract developers to become aware of possible faults in smart contracts and to understand the impact of their presence. It also provides valuable information for middleware developers to improve the overall fault tolerance of their systems.},
 }
