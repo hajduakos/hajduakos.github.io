@@ -10,7 +10,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - **2020/06/24** [Paper](https://arxiv.org/abs/2005.10382) on Solidity event verification accepted for presentation at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/).
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
-- Formal methods, model checking, static analysis, SAT/SMT
+- Formal methods, model checking, static analysis, SAT/SMT, compilers
 - Verification of software, smart contracts and Petri nets
 - Tool and framework development
 - Experimental evaluation and analysis
@@ -18,7 +18,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education and Degrees
 - 2016 - present: **Budapest University of Technology and Economics**  
   PhD student/candidate, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
-  _Dissertation (under review): Effective Domain-Specific Formal Verification Techniques_
+  _Dissertation: Effective Domain-Specific Formal Verification Techniques_ (expected to defend Nov. 2020)
 - 2014 - 2016: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
 - 2010 - 2014: **Budapest University of Technology and Economics**  
