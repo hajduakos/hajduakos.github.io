@@ -11,9 +11,9 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
 - Formal methods, model checking, static analysis, SAT/SMT, compilers
-- Verification of software, smart contracts and Petri nets
+- Verification and analysis of software, smart contracts and system models
 - Tool and framework development
-- Experimental evaluation and analysis
+- Experimental evaluation and data analysis
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education and Degrees
 - 2016 - present: **Budapest University of Technology and Economics**  
