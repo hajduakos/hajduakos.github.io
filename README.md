@@ -2,6 +2,7 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
+- **2020/10/27** Paper on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) [published](https://dl.acm.org/doi/10.1145/3417990.3421407).
 - **2020/10/05** [Paper](https://arxiv.org/abs/2006.11597) on Solidity smart contract fault injection accepted to IEEE Access.
 - **2020/08/20** Paper on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) accepted to [OpenMBEE@MODELS 2020](https://www.openmbee.org/models2020.html).
 - **2020/07/20** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/NNytwVBZ1no) at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/) on Solidity event verification.
