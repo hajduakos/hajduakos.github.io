@@ -19,7 +19,7 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education and Degrees
 - 2016 - present: **Budapest University of Technology and Economics**  
   PhD student/candidate, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
-  [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf): _Effective Domain-Specific Formal Verification Techniques_ (expected to defend Nov. 2020)
+  [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf): _Effective Domain-Specific Formal Verification Techniques_ (defense scheduled 24th Nov. 2020)
 - 2014 - 2016: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
 - 2010 - 2014: **Budapest University of Technology and Economics**  
