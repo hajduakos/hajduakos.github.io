@@ -2,6 +2,7 @@
 Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
+- **2020/11/27** I defended my thesis and officially got my PhD.
 - **2020/10/27** Paper on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) [published](https://dl.acm.org/doi/10.1145/3417990.3421407).
 - **2020/10/05** [Paper](https://arxiv.org/abs/2006.11597) on Solidity smart contract fault injection accepted to IEEE Access.
 - **2020/08/20** Paper on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) accepted to [OpenMBEE@MODELS 2020](https://www.openmbee.org/models2020.html).
@@ -17,15 +18,16 @@ Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD s
 - Experimental evaluation and data analysis
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education and Degrees
-- 2016 - present: **Budapest University of Technology and Economics**  
-  PhD student/candidate, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
-  [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf): _Effective Domain-Specific Formal Verification Techniques_ (defense: 2020/11/24)
+- 2016 - 2020: **Budapest University of Technology and Economics**  
+  Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
+  [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf): _Effective Domain-Specific Formal Verification Techniques_
 - 2014 - 2016: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
 - 2010 - 2014: **Budapest University of Technology and Economics**  
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
-## <i class="fas fa-globe fa-fw"></i> Research Visits, Internships
+## <i class="fas fa-globe fa-fw"></i> Employment, Research Visits, Internships
+- 2019 - present: **Budapest University of Technology and Economics**, Assistant lecturer
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
   _Formalizing and verifying advanced data structures in Solidity._
 - 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf)  
