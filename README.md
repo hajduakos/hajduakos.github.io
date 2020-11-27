@@ -27,7 +27,7 @@ Computer scientist mainly located in Budapest, Hungary, recently completed PhD i
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Employment, Research Visits, Internships
-- 2019 - present: **Budapest University of Technology and Economics**, Assistant lecturer
+- 2019 - present: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
   _Formalizing and verifying advanced data structures in Solidity._
 - 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf)  
