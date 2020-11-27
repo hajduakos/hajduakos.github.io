@@ -24,7 +24,7 @@ Computer scientist mainly located in Budapest, Hungary, recently completed PhD i
 - 2010 - 2014: **Budapest University of Technology and Economics**  
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
-## <i class="fas fa-globe fa-fw"></i> Employment, Research Visits, Internships
+## <i class="fas fa-globe fa-fw"></i> Employment
 - 2019 - present: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
   _Involved in research, projects and education at [ftsrg](http://inf.mit.bme.hu/en)._
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
