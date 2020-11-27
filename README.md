@@ -1,5 +1,5 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
-Computer scientist mainly located in Budapest, Hungary, currently pursuing PhD studies in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
+Computer scientist mainly located in Budapest, Hungary, recently completed PhD in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
 - **2020/11/27** I defended my thesis and officially got my PhD.
