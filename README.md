@@ -2,13 +2,11 @@
 Computer scientist mainly located in Budapest, Hungary, recently completed PhD in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
+- **2021/01/22** Competition contribution [paper](publications/tacas2021.pdf) accepted to [TACAS 2021](https://etaps.org/2021/tacas).
 - **2020/12/16** Our [gazer-theta](https://github.com/ftsrg/theta) toolchain qualified to [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/).
-- **2020/11/27** I defended my thesis and officially got my PhD.
+- **2020/11/27** I defended my [thesis](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf) and officially got my PhD.
 - **2020/10/27** Paper on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) [published](https://dl.acm.org/doi/10.1145/3417990.3421407).
 - **2020/10/05** [Paper](https://arxiv.org/abs/2006.11597) on Solidity smart contract fault injection accepted to IEEE Access.
-- **2020/07/20** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/NNytwVBZ1no) at [FMBC@CAV 2020](https://fmbc.gitlab.io/2020/) on Solidity event verification.
-- **2020/07/19** Gave an invited [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/-ojRvTrFfqU?t=1900) at [WoSCA@ISSTA 2020](https://conf.researchr.org/track/issta-2020/issta-2020-wosca) on the Solidity memory model.
-- **2020/07/05** Gave a [<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626) at [SMT@IJCAR 2020](https://fscd-ijcar-2020.org/workshops#SMT) on formalizing the Solidity memory model.
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
 - Formal methods, model checking, static analysis, SAT/SMT, compilers
