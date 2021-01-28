@@ -5,7 +5,7 @@ Computer scientist mainly located in Budapest, Hungary, recently completed PhD i
 - **2021/01/22** Competition contribution [paper](publications/tacas2021.pdf) accepted to [TACAS 2021](https://etaps.org/2021/tacas).
 - **2020/12/16** Our [gazer-theta](https://github.com/ftsrg/theta) toolchain qualified to [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/).
 - **2020/11/27** I defended my [thesis](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf) and officially got my PhD.
-- **2020/10/27** Paper on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) [published](https://dl.acm.org/doi/10.1145/3417990.3421407).
+- **2020/10/27** [Paper](publications/openmbee2020.pdf) on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) [published](https://dl.acm.org/doi/10.1145/3417990.3421407).
 - **2020/10/05** [Paper](https://arxiv.org/abs/2006.11597) on Solidity smart contract fault injection accepted to IEEE Access.
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
@@ -42,7 +42,7 @@ Computer scientist mainly located in Budapest, Hungary, recently completed PhD i
   _Automated formal verification for Solidity smart contracts._
 - 2016 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
   _Generic, modular and configurable verification framework._
-- 2018 - present: **Gazer** [<i class="fab fa-github"></i>](https://github.com/ftsrg/gazer)  
+- 2018 - present: **Gazer** [<i class="fab fa-github"></i>](https://github.com/ftsrg/gazer) [<i class="fas fa-file-alt"></i>](publications/tacas2021.pdf)  
   _LLVM-based C program analysis frontend for Theta._
 - 2017 - 2018: **PLCVerif** [<i class="fab fa-gitlab"></i>](https://gitlab.com/plcverif-oss/)  
   _PLC verification framework, supporting Theta as a backend._
