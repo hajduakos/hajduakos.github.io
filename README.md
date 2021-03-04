@@ -68,11 +68,11 @@ Computer scientist located in London, UK. PhD in formal methods and verification
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
 ## <i class="fas fa-cogs fa-fw"></i> Research Projects
-- 2019 - present: **MCaaS** (with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/))  
+- 2019 - 2021: **MCaaS** (with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/))  
   _Model Checking as a Service: cloud-based, push-button model checking for SysML statecharts._
-- 2019 - present: **[ADVANCE](http://advance-rise.eu/)**  
+- 2019 - 2021: **[ADVANCE](http://advance-rise.eu/)**  
   _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
-- 2019 - present: **[Arrowhead Tools](https://www.arrowhead.eu/arrowheadtools)**  
+- 2019 - 2021: **[Arrowhead Tools](https://www.arrowhead.eu/arrowheadtools)**  
   _Automated tool chain for verication and validation of systems under development._
 - 2016 - 2020: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
   _Functional verification for cyber-physical systems._
