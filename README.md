@@ -1,5 +1,5 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
-Computer scientist mainly located in Budapest, Hungary, recently completed PhD in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
+Computer scientist located in London, UK. PhD in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
 - **2021/01/22** Competition contribution [paper](publications/tacas2021.pdf) accepted to [TACAS 2021](https://etaps.org/2021/tacas).
@@ -24,7 +24,7 @@ Computer scientist mainly located in Budapest, Hungary, recently completed PhD i
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Employment
-- 2019 - present: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
+- 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
   _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en)._
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
   _Formalizing and verifying advanced data structures in Solidity._
