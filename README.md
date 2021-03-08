@@ -1,7 +1,11 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
-Computer scientist located in London, UK. PhD in formal methods and verification techniques. Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
+Computer scientist located in London, UK, working on static analysis at Facebook.
+PhD in formal methods from BME, Hungary.
+Former intern at CERN and SRI International.
+Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
+- **2021/03/08** I'm happy to join the group of [Dino Distefano](https://www.linkedin.com/in/dinodistefano) at Facebook to work on static analysis.
 - **2021/01/22** Competition contribution [paper](publications/tacas2021.pdf) accepted to [TACAS 2021](https://etaps.org/2021/tacas).
 - **2020/12/16** Our [gazer-theta](https://github.com/ftsrg/theta) toolchain qualified to [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/).
 - **2020/11/27** I defended my [thesis](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf) and officially got my PhD.
@@ -24,6 +28,8 @@ Computer scientist located in London, UK. PhD in formal methods and verification
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Employment
+- 2021 - present: **[Facebook](https://www.facebook.com/)**, London, UK, Software engineer  
+  _Working on static analysis for source code._
 - 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
   _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en)._
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
@@ -70,31 +76,12 @@ Computer scientist located in London, UK. PhD in formal methods and verification
 ## <i class="fas fa-cogs fa-fw"></i> Research Projects
 - 2019 - 2021: **MCaaS** (with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/))  
   _Model Checking as a Service: cloud-based, push-button model checking for SysML statecharts._
-- 2019 - 2021: **[ADVANCE](http://advance-rise.eu/)**  
-  _Addressing Verification and Validation Challenges in Future Cyber-Physical Systems._
-- 2019 - 2021: **[Arrowhead Tools](https://www.arrowhead.eu/arrowheadtools)**  
-  _Automated tool chain for verication and validation of systems under development._
 - 2016 - 2020: **[MTA-BME Lendület](http://lendulet.inf.mit.bme.hu/)**  
   _Functional verification for cyber-physical systems._
 - 2017 - 2018: **[CERN-BME Collaboration](https://inf.mit.bme.hu/en/research/projects/theta4plcverif)**  
   _Application of formal methods to verify industrial control code._
 
-## <i class="fas fa-book fa-fw"></i> Teaching
-- **Current**: Formal Methods (MSc), Integration and Verification Techniques (BSc), Software and Systems Verification (MSc), Software Verification and Validation (PhD), Systems Engineering Laboratory 1-2 (BSc)
-- **Former**: Basics of Programming 1-2 (BSc), Databases (BSc), Intelligent Systems Supervision (BSc), IT Engineering Laboratory 2 (BSc), Software Laboratory 1-2 (BSc)
-
 ## <i class="fas fa-university fa-fw"></i> Service
 - **PC member**: [FMICS'21](https://qonfest2021.lacl.fr/), [PLDI'21-AE](https://conf.researchr.org/home/pldi-2021), [MSR'21-shadow](https://2021.msrconf.org/track/msr-2021-shadow-pc), [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/), [OMBEE'20](https://www.openmbee.org/models2020.html), [TAP'20-AE](https://tap.sosy-lab.org/2020/), [VMCAI'20-AE](https://popl20.sigplan.org/home/VMCAI-2020)
 - **Subreviewer**: [FASE'21](https://etaps.org/2021/fase), [IEEE Access'20](https://ieeeaccess.ieee.org/), [MODELS'20](http://www.modelsconference.org/), [VSTTE'19](https://sri-csl.github.io/VSTTE19/), [HASE'19](http://cloud.hdu.edu.cn/hase2019/), [LADC’18](http://www.inf.unioeste.br/ladc2018/), [SRDS’17](http://srds2017.comp.polyu.edu.hk/)
 - **Volunteer**: [DISC'19](http://www.disc-conference.org/wp/disc2019/), [AVM’17](http://avm2017.inf.mit.bme.hu/), [SRDS’16](http://srds2016.inf.mit.bme.hu/), [ICACON’15](http://icacon2015.inf.mit.bme.hu/), [DSN’13](http://2013.dsn.org/)
-- **Webmaster**: [DISC'19](http://www.disc-conference.org/wp/disc2019/)
-
-## <i class="fas fa-graduation-cap fa-fw"></i> Summer Schools, Seminars
-- 2018 [Winter School in Computer Science and Engineering on Blockchains and Cryptocurrencies](http://ias.huji.ac.il/cse3)
-- 2016 [Dependable Software Systems Engineering Summer School (Marktoberdorf)](https://sites.google.com/site/marktoberdorf16/)
-- 2016 [SAT/SMT/AR Summer School](http://ssa-school-2016.it.uu.se/)
-- 2016 [Spring School on Logic and Verification](http://forsyte.at/events/love2016/)
-- 2015 [Automatic Verification and Analysis of Complex Systems](http://www.avacs.org/autumn2015/)
-- 2014 [Verification Technology, Systems and Applications](http://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa14/)
-- 2014 [Huawei Telecom Seeds for the Future](http://huawei.eu/seeds-for-the-future/)
-- 2013 [Mathematics for Scientific Programming (Oberwolfach)](https://www.mfo.de/occasion/1348a/www_view)
