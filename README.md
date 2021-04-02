@@ -5,12 +5,12 @@ Former intern at CERN and SRI International.
 Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
 ## <i class="fas fa-fire fa-fw"></i> News
+- **2021/04/01** Gave a [talk](https://doi.org/10.26226/morressier.604907f41a80aac83ca25d57) at [ESOP'21](https://etaps.org/2021/esop) on formalizing the Solidity memory model.
 - **2021/03/08** I'm happy to join the group of [Dino Distefano](https://www.linkedin.com/in/dinodistefano) at Facebook to work on static analysis.
 - **2021/01/22** Competition contribution [paper](publications/tacas2021.pdf) accepted to [TACAS 2021](https://etaps.org/2021/tacas).
 - **2020/12/16** Our [gazer-theta](https://github.com/ftsrg/theta) toolchain qualified to [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/).
 - **2020/11/27** I defended my [thesis](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf) and officially got my PhD.
 - **2020/10/27** [Paper](publications/openmbee2020.pdf) on cloud-based model checking with [IncQuery Labs](https://www.incquerylabs.com/) and [NASA JPL](https://www.jpl.nasa.gov/) [published](https://dl.acm.org/doi/10.1145/3417990.3421407).
-- **2020/10/05** [Paper](https://arxiv.org/abs/2006.11597) on Solidity smart contract fault injection accepted to IEEE Access.
 
 ## <i class="fas fa-lightbulb fa-fw"></i> Research Interests
 - Formal methods, model checking, static analysis, SAT/SMT, compilers
