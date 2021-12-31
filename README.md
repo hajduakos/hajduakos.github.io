@@ -38,11 +38,11 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2021 - present: **Infer** [<i class="fab fa-github"></i>](https://github.com/facebook/infer)  
   _Static analysis tool by Facebook._
-- 2018 - present: **solc-verify** [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=1q2gSm3NuQA)  
-  _Automated formal verification for Solidity smart contracts._
 - 2016 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
   _Generic, modular and configurable verification framework._
-- 2018 - present: **Gazer** [<i class="fab fa-github"></i>](https://github.com/ftsrg/gazer) [<i class="fas fa-file-alt"></i>](publications/tacas2021.pdf)  
+- 2018 - 2021: **solc-verify** [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=1q2gSm3NuQA)  
+  _Automated formal verification for Solidity smart contracts._
+- 2018 - 2021: **Gazer** [<i class="fab fa-github"></i>](https://github.com/ftsrg/gazer) [<i class="fas fa-file-alt"></i>](publications/tacas2021.pdf)  
   _LLVM-based C program analysis frontend for Theta._
 - 2017 - 2018: **PLCVerif** [<i class="fab fa-gitlab"></i>](https://gitlab.com/plcverif-oss/)  
   _PLC verification framework, supporting Theta as a backend._
