@@ -38,7 +38,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2021 - present: **Infer** [<i class="fab fa-github"></i>](https://github.com/facebook/infer)
   _Static analysis tool by Meta._
-- 2021 - present: **FAUSTA** [<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icst2022.pdf)
+- 2021 - present: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)
   _Fully automated testing for WhatsApp._
 - 2016 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
   _Generic, modular and configurable verification framework._
