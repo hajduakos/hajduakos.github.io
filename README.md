@@ -37,7 +37,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2021 - present: **Infer** [<i class="fab fa-github"></i>](https://github.com/facebook/infer)  
-  _Static analysis tool by Meta._
+  _Building Erlang frontend for static analysis._
 - 2021 - present: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
   _Fully automated testing for WhatsApp._
 - 2016 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
@@ -78,5 +78,6 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 ## <i class="fas fa-university fa-fw"></i> Service
 - **PC member**: [FORTE'22](http://www.discotec.org/2022/forte.html), [OMBEE'21](https://conf.researchr.org/track/models-2021/models-2021-workshops#Accepted-Workshops), [FMICS'21](https://qonfest2021.lacl.fr/), [MSR'21-shadow](https://2021.msrconf.org/track/msr-2021-shadow-pc), [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/), [OMBEE'20](https://www.openmbee.org/models2020.html)
 - **AE PC member**: [CAV'22](http://i-cav.org/2022/), [TAP'21](https://www.univ-orleans.fr/lifo/events/TAP2021/), [PLDI'21](https://conf.researchr.org/home/pldi-2021), [TAP'20](https://tap.sosy-lab.org/2020/), [VMCAI'20](https://popl20.sigplan.org/home/VMCAI-2020)
-- **Subreviewer**: [VMCAI'22](https://popl22.sigplan.org/home/VMCAI-2022), [POPL'22](https://popl22.sigplan.org/), [FASE'21](https://etaps.org/2021/fase), [IEEE Access'20](https://ieeeaccess.ieee.org/), [MODELS'20](http://www.modelsconference.org/), [VSTTE'19](https://sri-csl.github.io/VSTTE19/), [HASE'19](http://cloud.hdu.edu.cn/hase2019/), [LADC’18](http://www.inf.unioeste.br/ladc2018/), [SRDS’17](http://srds2017.comp.polyu.edu.hk/)
+- **Reviewer**: [STTT'22](https://www.springer.com/journal/10009), [IEEE Access'20](https://ieeeaccess.ieee.org/)
+- **Subreviewer**: [VMCAI'22](https://popl22.sigplan.org/home/VMCAI-2022), [POPL'22](https://popl22.sigplan.org/), [FASE'21](https://etaps.org/2021/fase), [MODELS'20](http://www.modelsconference.org/), [VSTTE'19](https://sri-csl.github.io/VSTTE19/), [HASE'19](http://cloud.hdu.edu.cn/hase2019/), [LADC’18](http://www.inf.unioeste.br/ladc2018/), [SRDS’17](http://srds2017.comp.polyu.edu.hk/)
 - **Volunteer**: [DISC'19](http://www.disc-conference.org/wp/disc2019/), [AVM’17](http://avm2017.inf.mit.bme.hu/), [SRDS’16](http://srds2016.inf.mit.bme.hu/), [ICACON’15](http://icacon2015.inf.mit.bme.hu/), [DSN’13](http://2013.dsn.org/)
