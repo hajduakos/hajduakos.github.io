@@ -4,7 +4,7 @@ PhD in formal methods from BME, Hungary.
 Former intern at CERN and SRI International.
 Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
 
-## <i class="fas fa-graduation-cap fa-fw"></i> Education and Degrees
+## <i class="fas fa-graduation-cap fa-fw"></i> Education
 - 2016 - 2020: **Budapest University of Technology and Economics**  
   Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
   [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf): _Effective Domain-Specific Formal Verification Techniques_
@@ -15,18 +15,20 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 
 ## <i class="fas fa-globe fa-fw"></i> Employment
 - 2021 - present: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
-  _Working on developer infrastructure, including dynamic and static analysis of code._
+  _Working on static and dynamic program analysis._
 - 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
   _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en)._
-- 2019: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
+
+## <i class="fas fa-globe fa-fw"></i> Internships
+- 2019: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
   _Formalizing and verifying advanced data structures in Solidity._
-- 2018: **[SRI International](https://www.sri.com/)**, New York, USA, Internship (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf)  
+- 2018: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf)  
   _Developing solc-verify, a formal verification tool for Solidity smart contracts._
-- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada, Research visit (8 weeks) [<i class="fas fa-comment-alt"></i>](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)  
+- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada (8 weeks) [<i class="fas fa-comment-alt"></i>](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)  
   _Working on functional verification for cyber-physical systems._
-- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland, Internship (10 weeks) [<i class="fab fa-github"></i>](https://github.com/root-project/root) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2044503)  
+- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland (10 weeks) [<i class="fab fa-github"></i>](https://github.com/root-project/root) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2044503)  
   _Developing code generation in ROOT, a data analysis framework for the experiments._
-- 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary, Internship (6 weeks) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
+- 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary (6 weeks) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
   _Modeling and analyzing public transportation networks using Petri nets._
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
