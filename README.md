@@ -13,7 +13,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 - 2010 - 2014: **Budapest University of Technology and Economics**  
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
-## <i class="fa-solid fa-briefcase"></i> Employment
+## <i class="fas fa-briefcase fa-fw"></i> Employment
 - 2021 - present: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
   _Working on static and dynamic program analysis._
 - 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
