@@ -32,7 +32,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
   _Modeling and analyzing public transportation networks using Petri nets._
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
-- 2021 - present: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE) 
+- 2021 - present: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
   _Working on Erlang support, including frontend and analyzers._
 - 2021 - present: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
   _Fully automated testing for WhatsApp server._
