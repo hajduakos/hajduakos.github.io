@@ -54,7 +54,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
 ## <i class="fas fa-university fa-fw"></i> Service
-- **PC chair**: Infer'23
+- **PC chair**: [Infer'23](https://pldi23.sigplan.org/home/infer-2023)
 - **PC member**: [FormaliSE'23](https://www.formalise.org/), [VMCAI'23](https://vmcai-2023.github.io/), [WoSoCer'22](https://issre2022.github.io/), [FORTE'22](http://www.discotec.org/2022/forte.html), [OMBEE'21](https://conf.researchr.org/track/models-2021/models-2021-workshops#Accepted-Workshops), [FMICS'21](https://qonfest2021.lacl.fr/), [MSR'21-shadow](https://2021.msrconf.org/track/msr-2021-shadow-pc), [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/), [OMBEE'20](https://www.openmbee.org/models2020.html)
 - **AE PC member**: [CAV'22](http://i-cav.org/2022/), [TAP'21](https://www.univ-orleans.fr/lifo/events/TAP2021/), [PLDI'21](https://conf.researchr.org/home/pldi-2021), [TAP'20](https://tap.sosy-lab.org/2020/), [VMCAI'20](https://popl20.sigplan.org/home/VMCAI-2020)
 - **Journal reviewer**: [SQJ'22](https://www.springer.com/journal/11219), [STTT'22](https://www.springer.com/journal/10009), [IEEE Access'20](https://ieeeaccess.ieee.org/)
