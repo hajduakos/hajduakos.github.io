@@ -15,7 +15,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
 - 2021 - present: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
-  _Working on static and dynamic program analysis for WhatsApp server (Erlang) and client (iOS)._
+  _Working on static and dynamic program analysis for WhatsApp server (Erlang) and clients (Android/iOS)._
 - 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
   _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en)._
 
@@ -32,11 +32,13 @@ Feeling the most comfortable at the intersection of theory and practice, where t
   _Modeling and analyzing public transportation networks using Petri nets._
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
+- 2022 - present: **Sapienz**  
+  _Automated UI testing for clients._
 - 2021 - present: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
-  _Working on Erlang language support, including frontend and analyzers._
+  _Static analysis platform by Meta._
 - 2021 - present: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
-  _Fully automated testing for WhatsApp server and clients._
-- 2016 - present: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
+  _Automated testing for WhatsApp with traffic generation._
+- 2015 - 2021: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
   _Generic, modular and configurable model checking framework._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
