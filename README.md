@@ -7,7 +7,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education
 - 2016 - 2020: **Budapest University of Technology and Economics**  
   Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
-  [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](https://repozitorium.omikk.bme.hu/bitstream/handle/10890/13523/ertekezes.pdf): _Effective Domain-Specific Formal Verification Techniques_
+  [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](publications/phd2020.pdf): _Effective Domain-Specific Formal Verification Techniques_
 - 2014 - 2016: **Budapest University of Technology and Economics**  
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
 - 2010 - 2014: **Budapest University of Technology and Economics**  
