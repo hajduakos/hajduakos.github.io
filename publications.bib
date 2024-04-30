@@ -545,7 +545,8 @@
 
     type      = {Conference},
 
-    url_pdf    = {https://hajduakos.github.io/publications/icse2024.pdf},
+    url_pdf   = {https://hajduakos.github.io/publications/icse2024.pdf},
+    abstract  = {Static and dynamic code analyses have been widely adopted in industry to enhance software reliability, security, and performance by automatically detecting bugs in the code. In this paper, we introduce PrivacyCAT, a code analysis system developed and deployed at WhatsApp to protect user privacy. PrivacyCAT automatically detects privacy defects in code at early stages (before reaching production and affecting users), and therefore, it prevents such vulnerabilities from evolving into privacy incidents. PrivacyCAT comprises of a collection of static and dynamic taint analysers. We report on the technical development of PrivacyCAT and the results of two years of its large-scale industrial deployment at WhatsApp. We present our experience in designing its system architecture, and continuous integration process. We discuss the unique challenges encountered in developing and deploying such kind of analyses within an industrial context. Since its deployment in 2021, PrivacyCAT has safeguarded data privacy in $74\%$ of privacy site events (SEVs). It has prevented 493 potential privacy SEVs from being introduced into the codebases, enabling developers to maintain a high privacy standard for the code that supports over two billion WhatsApp users.},
 }
 
 @inproceedings{fse2024,
@@ -559,4 +560,5 @@
     type      = {Conference},
 
     url_pdf    = {https://hajduakos.github.io/publications/fse2024.pdf},
+    abstract  = {Taint analysis aims to track data flows in systems, with potential use cases for security, privacy and performance. This paper describes an end-to-end dynamic taint analysis solution for WhatsApp. We use exploratory UI testing to generate realistic interactions and inputs, serving as data sources on the clients and then we track data propagation towards sinks on both client and server sides. Finally, a reporting pipeline localizes tainted flows in the source code, applies deduplication, filters false positives based on production call sites, and files tasks to code owners. Applied to WhatsApp, our approach found 89 flows that were fixed by engineers, and caught 50% of all privacy-related flows that required escalation, including instances that would have been difficult to uncover by conventional testing.},
 }
