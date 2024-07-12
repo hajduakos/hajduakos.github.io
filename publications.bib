@@ -558,12 +558,14 @@
     title     = {Automated End-to-End Dynamic Taint Analysis for {W}hats{A}pp},
     year      = {2024},
     publisher = {ACM},
-    booktitle = {Companion Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering},
-    note      = {(Accepted)},
+    doi       = {10.1145/3663529.3663824},
+    booktitle = {Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering},
+    pages     = {21–26},
 
     type      = {Conference},
 
-    url_pdf    = {https://hajduakos.github.io/publications/fse2024.pdf},
+    url_pdf   = {https://hajduakos.github.io/publications/fse2024.pdf},
+    url_link  = {https://doi.org/10.1145/3663529.3663824},
 
     abstract  = {Taint analysis aims to track data flows in systems, with potential use cases for security, privacy and performance. This paper describes an end-to-end dynamic taint analysis solution for WhatsApp. We use exploratory UI testing to generate realistic interactions and inputs, serving as data sources on the clients and then we track data propagation towards sinks on both client and server sides. Finally, a reporting pipeline localizes tainted flows in the source code, applies deduplication, filters false positives based on production call sites, and files tasks to code owners. Applied to WhatsApp, our approach found 89 flows that were fixed by engineers, and caught 50% of all privacy-related flows that required escalation, including instances that would have been difficult to uncover by conventional testing.},
 }
