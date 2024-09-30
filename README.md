@@ -15,9 +15,9 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
 - 2021 - present: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
-  _Working on static and dynamic program analysis for WhatsApp server (Erlang) and clients (Android/iOS)._
+  _Working on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), mostly concerning reliability, performance and privacy properties._
 - 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
-  _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en)._
+  _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en), related to software model checking and other verification techniques._
 
 ## <i class="fas fa-globe fa-fw"></i> Internships
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
