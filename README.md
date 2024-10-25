@@ -33,13 +33,13 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools
 - 2022 - present: **Sapienz** [<i class="fas fa-file-alt"></i>](publications/fse2024.pdf)    
-  _Automated UI testing for clients._
+  _I am working on integrating Sapienz -- an automated UI testing engine -- with WhatsApp iOS client to perform taint analysis of privacy properties._
 - 2021 - present: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
-  _Static analysis platform by Meta._
-- 2021 - present: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
-  _Automated testing for WhatsApp with traffic generation._
+  _Infer is a general purpose static analysis platform developed at Meta. I am working on the Erlang frontend, a callgraph reachability analysis and the integrations with WhatsApp server and client codebases._
+- 2021 - 2022: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
+  _FAUSTA is an automated testing for WhatsApp server with traffic generation. I worked on more precise fault localization._
 - 2015 - 2021: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
-  _Generic, modular and configurable model checking framework._
+  _Theta is a generic, modular and configurable model checking framework. I was one of the original founders and main developers, focusing on the abstraction-based algorithms for transition systems and programs._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[ICST'22](https://icst2022.vrain.upv.es/)** **FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp**  
