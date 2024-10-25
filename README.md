@@ -31,7 +31,7 @@ Feeling the most comfortable at the intersection of theory and practice, where t
 - 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary (6 weeks) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
   _Modeling and analyzing public transportation networks using Petri nets._
 
-## <i class="fas fa-desktop fa-fw"></i> Tools
+## <i class="fas fa-desktop fa-fw"></i> Tools and Projects
 - 2022 - present: **Sapienz** [<i class="fas fa-file-alt"></i>](publications/fse2024.pdf)    
   _I am working on integrating Sapienz -- an automated UI testing engine -- with WhatsApp iOS client to perform taint analysis of privacy properties._
 - 2021 - present: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
