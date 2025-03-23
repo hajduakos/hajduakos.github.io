@@ -32,10 +32,10 @@ Feeling the most comfortable at the intersection of theory and practice, adoptin
   _Modeling and analyzing public transportation networks using Petri nets._
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools and Projects
-- 2022 - present: **Sapienz** [<i class="fas fa-file-alt"></i>](publications/fse2024.pdf)    
-  _I am working on integrating Sapienz -- an automated UI testing engine -- with WhatsApp iOS client to perform taint analysis of privacy properties._
 - 2021 - present: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
   _Infer is a general purpose static analysis platform developed at Meta. I am working on the Erlang frontend, a callgraph reachability analysis and the integrations with WhatsApp server and client codebases._
+- 2022 - 2024: **Sapienz** [<i class="fas fa-file-alt"></i>](publications/fse2024.pdf)  
+  _I worked on integrating Sapienz -- an automated UI testing engine -- with WhatsApp iOS client to perform taint analysis of privacy properties._
 - 2021 - 2022: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
   _FAUSTA is an automated testing for WhatsApp server with traffic generation. I worked on more precise fault localization._
 - 2015 - 2021: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
