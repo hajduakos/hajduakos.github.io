@@ -2,7 +2,7 @@
 Computer scientist located in London, UK, working on static/dynamic program analysis at Meta/WhatsApp.
 PhD in formal methods from BME, Hungary.
 Former intern at CERN and SRI International.
-Feeling the most comfortable at the intersection of theory and practice, where the latest research results come to life in real-world solutions.
+Feeling the most comfortable at the intersection of theory and practice, adopting research results in real-world applications.
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education
 - 2016 - 2020: **Budapest University of Technology and Economics**  
@@ -42,12 +42,12 @@ Feeling the most comfortable at the intersection of theory and practice, where t
   _Theta is a generic, modular and configurable model checking framework. I was one of the original founders and main developers, focusing on the abstraction-based algorithms for transition systems and programs._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
+- **[FSE'24](https://2024.esec-fse.org/)** **Automated End-to-End Dynamic Taint Analysis for WhatsApp**  
+  With S. Cela, A. Ciancone, P. Gustafsspn, Y. Jia, T. Kapus, M. Koshtenko, W. Lewis, K. Mao, D. Martac &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fse2024.pdf)
+- **[ICSE'24](https://conf.researchr.org/home/icse-2024)** **PrivacyCAT: Privacy-Aware Code Analysis at Scale**  
+  With K. Mao, C. Ahs, S. Cela, D. Distefao, N. Gardner, R. Grigore, P. Gustafsso, T. Kapus, M. Marescotti, G. Cunha Sampaio, T. Suzanne &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse2024.pdf)
 - **[ICST'22](https://icst2022.vrain.upv.es/)** **FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp**  
   With K. Mao, T. Kapus, L. Petrou, M. Marescotti, A. Löscher, M. Harman, D. Distefano &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icst2022.pdf)
-- **[ESOP'20](https://www.etaps.org/2020/esop)** **SMT-Friendly Formalization of the Solidity Memory Model**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/esop2020.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/smt2020.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://youtu.be/B3ML9vGituk?t=626)
-- **[JAR'19](https://link.springer.com/article/10.1007/s10817-019-09535-x)** **Efficient Strategies for CEGAR-Based Model Checking**  
-  With Z. Micskei  &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](https://link.springer.com/content/pdf/10.1007%2Fs10817-019-09535-x.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
   With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/vstte2019.pdf)
 - **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** **Theta: a Framework for Abstraction Refinement-Based Model Checking**  
