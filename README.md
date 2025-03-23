@@ -43,9 +43,9 @@ Feeling the most comfortable at the intersection of theory and practice, adoptin
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[FSE'24](https://2024.esec-fse.org/)** **Automated End-to-End Dynamic Taint Analysis for WhatsApp**  
-  With S. Cela, A. Ciancone, P. Gustafsspn, Y. Jia, T. Kapus, M. Koshtenko, W. Lewis, K. Mao, D. Martac &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fse2024.pdf)
+  With S. Cela, A. Ciancone, P. Gustafsson, Y. Jia, T. Kapus, M. Koshtenko, W. Lewis, K. Mao, D. Martac &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fse2024.pdf)
 - **[ICSE'24](https://conf.researchr.org/home/icse-2024)** **PrivacyCAT: Privacy-Aware Code Analysis at Scale**  
-  With K. Mao, C. Ahs, S. Cela, D. Distefao, N. Gardner, R. Grigore, P. Gustafsso, T. Kapus, M. Marescotti, G. Cunha Sampaio, T. Suzanne &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse2024.pdf)
+  With K. Mao, C. Ahs, S. Cela, D. Distefao, N. Gardner, R. Grigore, P. Gustafsson, T. Kapus, M. Marescotti, G. Cunha Sampaio, T. Suzanne &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse2024.pdf)
 - **[ICST'22](https://icst2022.vrain.upv.es/)** **FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp**  
   With K. Mao, T. Kapus, L. Petrou, M. Marescotti, A. Löscher, M. Harman, D. Distefano &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icst2022.pdf)
 - **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
