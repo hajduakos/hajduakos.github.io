@@ -2,7 +2,12 @@
 Computer scientist located in London, UK, working on static/dynamic program analysis at Meta/WhatsApp.
 PhD in formal methods from BME, Hungary.
 Former intern at CERN and SRI International.
-Feeling the most comfortable at the intersection of theory and practice, adopting research results in real-world applications.
+
+## <i class="fas fa-briefcase fa-fw"></i> Employment
+- 2021 - present: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
+  _Working on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), mostly concerning reliability, performance and privacy properties._
+- 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
+  _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en), related to software model checking and other verification techniques._
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education
 - 2016 - 2020: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
@@ -12,12 +17,6 @@ Feeling the most comfortable at the intersection of theory and practice, adoptin
   Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
 - 2010 - 2014: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
   Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
-
-## <i class="fas fa-briefcase fa-fw"></i> Employment
-- 2021 - present: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
-  _Working on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), mostly concerning reliability, performance and privacy properties._
-- 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
-  _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en), related to software model checking and other verification techniques._
 
 ## <i class="fas fa-globe fa-fw"></i> Internships
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
@@ -33,25 +32,21 @@ Feeling the most comfortable at the intersection of theory and practice, adoptin
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools and Projects
 - 2021 - present: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
-  _Infer is a general purpose static analysis platform developed at Meta. I am working on the Erlang frontend, a callgraph reachability analysis and the integrations with WhatsApp server and client codebases._
+  _Infer is a general purpose static analysis platform developed at Meta. I am working on the integrations of Infer on WhatsApp codebases (server/Android/iOS), including the Erlang frontend and some customized analyses._
 - 2022 - 2024: **Sapienz** [<i class="fas fa-file-alt"></i>](publications/fse2024.pdf)  
-  _I worked on integrating Sapienz -- an automated UI testing engine -- with WhatsApp iOS client to perform taint analysis of privacy properties._
+  _I worked on integrating Sapienz -- an automated UI testing engine -- with the WhatsApp iOS client to perform taint analysis for privacy properties._
 - 2021 - 2022: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
-  _FAUSTA is an automated testing for WhatsApp server with traffic generation. I worked on more precise fault localization._
+  _FAUSTA is a traffic generation-based automated testing tool for WhatsApp server. I worked on more precise fault localization._
 - 2015 - 2021: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
   _Theta is a generic, modular and configurable model checking framework. I was one of the original founders and main developers, focusing on the abstraction-based algorithms for transition systems and programs._
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
-- **[FSE'24](https://2024.esec-fse.org/)** **Automated End-to-End Dynamic Taint Analysis for WhatsApp**  
-  With S. Cela, A. Ciancone, P. Gustafsson, Y. Jia, T. Kapus, M. Koshtenko, W. Lewis, K. Mao, D. Martac &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fse2024.pdf)
-- **[ICSE'24](https://conf.researchr.org/home/icse-2024)** **PrivacyCAT: Privacy-Aware Code Analysis at Scale**  
-  With K. Mao, C. Ahs, S. Cela, D. Distefao, N. Gardner, R. Grigore, P. Gustafsson, T. Kapus, M. Marescotti, G. Cunha Sampaio, T. Suzanne &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse2024.pdf)
-- **[ICST'22](https://icst2022.vrain.upv.es/)** **FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp**  
-  With K. Mao, T. Kapus, L. Petrou, M. Marescotti, A. Löscher, M. Harman, D. Distefano &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icst2022.pdf)
-- **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts**  
-  With D. Jovanović &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/vstte2019.pdf)
-- **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** **Theta: a Framework for Abstraction Refinement-Based Model Checking**  
-  With T. Tóth, A. Vörös, Z. Micskei, I. Majzik &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
+- **[SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025)** **Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health** &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/soap2025.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/soap2025.pdf)
+- **[FSE'24](https://2024.esec-fse.org/)** **Automated End-to-End Dynamic Taint Analysis for WhatsApp** &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fse2024.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/fse2024.pdf)
+- **[ICSE'24](https://conf.researchr.org/home/icse-2024)** **PrivacyCAT: Privacy-Aware Code Analysis at Scale** &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icse2024.pdf)
+- **[ICST'22](https://icst2022.vrain.upv.es/)** **FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp** &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/icst2022.pdf)
+- **[VSTTE'19](https://sri-csl.github.io/VSTTE19/)** **solc-verify: A Modular Verifier for Solidity Smart Contracts** &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/vstte2019.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/vstte2019.pdf)
+- **[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/)** **Theta: a Framework for Abstraction Refinement-Based Model Checking** &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/fmcad2017.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/fmcad2017.pdf) &nbsp;[<i class="fas fa-video"></i>&nbsp;talk](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)
 
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
