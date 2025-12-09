@@ -608,3 +608,17 @@
     abstract  = {We report on an industrial use case of static callgraph reachability analysis to improve WhatsApp Android app health. We collaborated with engineers dedicated to app health to annotate/specify source code. We leveraged the Infer static analyzer to prevent regressions during code changes and to periodically find pre-existing issues on the latest revision. Within three months, the analysis prevented almost a hundred regressions to be introduced and resulted in fixes for a handful of pre-existing issues, including examples with end-user measurable impact.},
     note      = {(Best presentation award)},
 }
+
+@inproceedings{icse2026,
+    author    = {Mao, Ke and Kapus, Timotej and {\AA}hs, Cons T and Marescotti, Matteo and Ip, Daniel and Hajdu, \'Akos and Cela, Sopot and Banerjee, Aparup},
+    title     = {{W}hats{C}ode: Large-Scale Gen{AI} Deployment for Developer Efficiency at {W}hats{A}pp},
+    year      = {2026},
+    publisher = {ACM},
+    booktitle = {Proceedings of the 48th International Conference on Software Engineering: Software Engineering in Practice},
+
+    type      = {Conference},
+
+    url_pdf   = {https://hajduakos.github.io/publications/icse2026.pdf},
+
+    abstract  = {The deployment of AI-assisted development tools in compliance-relevant, large-scale industrial environments represents significant gaps in academic literature, despite growing industry adoption. We report on the industrial deployment of WhatsCode, a domain-specific AI development system that supports WhatsApp (serving over 2 billion users) and processes millions of lines of code across multiple platforms. Over 25 months (2023-2025), WhatsCode evolved from targeted privacy automation to autonomous agentic workflows integrated with end-to-end feature development and DevOps processes. WhatsCode achieved substantial quantifiable impact, improving automated privacy verification coverage 3.5x from 15% to 53%, identifying privacy requirements, and generating over 3,000 accepted code changes with acceptance rates ranging from 9% to 100% across different automation domains. The system committed 692 automated refactor/fix changes, 711 framework adoptions, 141 feature development assists and maintained 86% precision in bug triage. Our study identifies two stable human-AI collaboration patterns that emerged from production deployment: one-click rollout for high-confidence changes (60% of cases) and commandeer-revise for complex decisions (40%). We demonstrate that organizational factors, such as ownership models, adoption dynamics, and risk management, are as decisive as technical capabilities for enterprise-scale AI success. The findings provide evidence-based guidance for large-scale AI tool deployment in compliance-relevant environments, showing that effective human-AI collaboration, not full automation, drives sustainable business impact.},
+}
