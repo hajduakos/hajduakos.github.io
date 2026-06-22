@@ -4,7 +4,9 @@ PhD in formal methods from BME, Hungary.
 Former intern at CERN and SRI International.
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
-- 2021 - present: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
+- 2026 - present: **[Meta/FAIR](https://about.facebook.com/meta)**, London, UK, Software engineer  
+  _Working on formal verification of AI agents in the FAIR (Fundamental AI Research) team._
+- 2021 - 2026: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
   _Working on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), mostly concerning reliability, performance and privacy properties._
 - 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
   _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en), related to software model checking and other verification techniques._
@@ -51,7 +53,7 @@ Former intern at CERN and SRI International.
 **[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
 ## <i class="fas fa-university fa-fw"></i> Service
-- **PC chair**: [FTfJP'26](https://2026.ecoop.org/home/FTfJP-2026), [Erlang'25](https://conf.researchr.org/home/icfp-splash-2025/erlang-2025), [FormaliSE'25-AE](https://2025.formalise.org/track/Formalise-2025-artifact-track), [Infer'23](https://pldi23.sigplan.org/home/infer-2023)
+- **PC chair**: [Erlang'26](https://icfp26.sigplan.org/home/erlang-2026), [FTfJP'26](https://2026.ecoop.org/home/FTfJP-2026), [Erlang'25](https://conf.researchr.org/home/icfp-splash-2025/erlang-2025), [FormaliSE'25-AE](https://2025.formalise.org/track/Formalise-2025-artifact-track), [Infer'23](https://pldi23.sigplan.org/home/infer-2023)
 - **PC member**: [Infer'24](https://pldi24.sigplan.org/home/infer-2024), [FormaliSE'23](https://www.formalise.org/), [VMCAI'23](https://vmcai-2023.github.io/), [WoSoCer'22](https://issre2022.github.io/), [FORTE'22](http://www.discotec.org/2022/forte.html), [OMBEE'21](https://conf.researchr.org/track/models-2021/models-2021-workshops#Accepted-Workshops), [FMICS'21](https://qonfest2021.lacl.fr/), [MSR'21-shadow](https://2021.msrconf.org/track/msr-2021-shadow-pc), [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/), [OMBEE'20](https://www.openmbee.org/models2020.html)
 - **AE PC member**: [CAV'22](http://i-cav.org/2022/), [TAP'21](https://www.univ-orleans.fr/lifo/events/TAP2021/), [PLDI'21](https://conf.researchr.org/home/pldi-2021), [TAP'20](https://tap.sosy-lab.org/2020/), [VMCAI'20](https://popl20.sigplan.org/home/VMCAI-2020)
 - **Journal reviewer**: [SCP'24](https://www.sciencedirect.com/journal/science-of-computer-programming), [FAC'24](https://dl.acm.org/journal/fac), [SCP'23](https://www.sciencedirect.com/journal/science-of-computer-programming), [SQJ'22](https://www.springer.com/journal/11219), [STTT'22](https://www.springer.com/journal/10009), [IEEE Access'20](https://ieeeaccess.ieee.org/)
