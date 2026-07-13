@@ -555,21 +555,21 @@
 }
 
 @inproceedings{fse2024,
-    author    = {Cela, Sopot and Ciancone, Andrea and Gustafsson, Per and Hajdu, {\'A}kos and Jia, Yue and Kapus, Timotej and Koshtenko, Maksym and Lewis, Will and Mao, Ke and Martac, Dragos},
-    title     = {Automated End-to-End Dynamic Taint Analysis for {W}hats{A}pp},
-    year      = {2024},
-    publisher = {ACM},
-    doi       = {10.1145/3663529.3663824},
-    booktitle = {Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering},
-    pages     = {21--26},
+    author     = {Cela, Sopot and Ciancone, Andrea and Gustafsson, Per and Hajdu, {\'A}kos and Jia, Yue and Kapus, Timotej and Koshtenko, Maksym and Lewis, Will and Mao, Ke and Martac, Dragos},
+    title      = {Automated End-to-End Dynamic Taint Analysis for {W}hats{A}pp},
+    year       = {2024},
+    publisher  = {ACM},
+    doi        = {10.1145/3663529.3663824},
+    booktitle  = {Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering},
+    pages      = {21--26},
 
-    type      = {Conference},
+    type       = {Conference},
 
-    url_pdf   = {https://hajduakos.github.io/publications/fse2024.pdf},
+    url_pdf    = {https://hajduakos.github.io/publications/fse2024.pdf},
     url_slides = {https://hajduakos.github.io/publications/slides/fse2024.pdf},
-    url_link  = {https://doi.org/10.1145/3663529.3663824},
+    url_link   = {https://doi.org/10.1145/3663529.3663824},
 
-    abstract  = {Taint analysis aims to track data flows in systems, with potential use cases for security, privacy and performance. This paper describes an end-to-end dynamic taint analysis solution for WhatsApp. We use exploratory UI testing to generate realistic interactions and inputs, serving as data sources on the clients and then we track data propagation towards sinks on both client and server sides. Finally, a reporting pipeline localizes tainted flows in the source code, applies deduplication, filters false positives based on production call sites, and files tasks to code owners. Applied to WhatsApp, our approach found 89 flows that were fixed by engineers, and caught 50% of all privacy-related flows that required escalation, including instances that would have been difficult to uncover by conventional testing.},
+    abstract   = {Taint analysis aims to track data flows in systems, with potential use cases for security, privacy and performance. This paper describes an end-to-end dynamic taint analysis solution for WhatsApp. We use exploratory UI testing to generate realistic interactions and inputs, serving as data sources on the clients and then we track data propagation towards sinks on both client and server sides. Finally, a reporting pipeline localizes tainted flows in the source code, applies deduplication, filters false positives based on production call sites, and files tasks to code owners. Applied to WhatsApp, our approach found 89 flows that were fixed by engineers, and caught 50% of all privacy-related flows that required escalation, including instances that would have been difficult to uncover by conventional testing.},
 }
 
 @inproceedings{ase2024,
@@ -586,27 +586,27 @@
 
     type      = {Conference},
 
-    abstract = {In this paper we introduce a novel method for improving static analysis of real code by using dynamic analysis. We have implemented our technique to enhance the Infer static analyzer for Erlang by supplementing its analysis with data obtained by FAUSTA dynamic analysis. We present the technical details of the algorithm combining static and dynamic analysis and a case study on its evaluation on WhatsApp's Erlang code to detect software defects. Results show an increase in detected bugs in 76\% of the runs when data from dynamic analysis is used. In particular, on average, data provided by dynamic analysis for 1 function enables static analysis of 2.1 additional functions. Moreover, dynamic data enabled analysis of a property not verifiable using static analysis alone.},
+    abstract  = {In this paper we introduce a novel method for improving static analysis of real code by using dynamic analysis. We have implemented our technique to enhance the Infer static analyzer for Erlang by supplementing its analysis with data obtained by FAUSTA dynamic analysis. We present the technical details of the algorithm combining static and dynamic analysis and a case study on its evaluation on WhatsApp's Erlang code to detect software defects. Results show an increase in detected bugs in 76\% of the runs when data from dynamic analysis is used. In particular, on average, data provided by dynamic analysis for 1 function enables static analysis of 2.1 additional functions. Moreover, dynamic data enabled analysis of a property not verifiable using static analysis alone.},
 }
 
 @inproceedings{soap2025,
-    author    = {Hajdu, \'Akos and Lee, Roman and Weng, Gavin and Agrawal, Nilesh and Dubreil, J\'er\'emy},
-    title     = {Compositional Static Callgraph Reachability Analysis for {W}hats{A}pp {A}ndroid App Health},
-    year      = {2025},
-    publisher = {ACM},
-    booktitle = {Proceedings of the 14th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis},
-    doi       = {10.1145/3735544.3735583},
-    pages     = {15--21},
+    author     = {Hajdu, \'Akos and Lee, Roman and Weng, Gavin and Agrawal, Nilesh and Dubreil, J\'er\'emy},
+    title      = {Compositional Static Callgraph Reachability Analysis for {W}hats{A}pp {A}ndroid App Health},
+    year       = {2025},
+    publisher  = {ACM},
+    booktitle  = {Proceedings of the 14th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis},
+    doi        = {10.1145/3735544.3735583},
+    pages      = {15--21},
 
-    url_pdf   = {https://hajduakos.github.io/publications/soap2025.pdf},
-    url_link  = {https://dl.acm.org/doi/10.1145/3735544.3735583},
+    url_pdf    = {https://hajduakos.github.io/publications/soap2025.pdf},
+    url_link   = {https://dl.acm.org/doi/10.1145/3735544.3735583},
     url_slides = {https://hajduakos.github.io/publications/slides/soap2025.pdf},
-    url_video = {https://www.youtube.com/live/JmvPLSBWxAw?si=4iqjUvXmpi2KqJde&t=2171},
+    url_video  = {https://www.youtube.com/live/JmvPLSBWxAw?si=4iqjUvXmpi2KqJde&t=2171},
 
-    type      = {Workshop},
+    type       = {Workshop},
 
-    abstract  = {We report on an industrial use case of static callgraph reachability analysis to improve WhatsApp Android app health. We collaborated with engineers dedicated to app health to annotate/specify source code. We leveraged the Infer static analyzer to prevent regressions during code changes and to periodically find pre-existing issues on the latest revision. Within three months, the analysis prevented almost a hundred regressions to be introduced and resulted in fixes for a handful of pre-existing issues, including examples with end-user measurable impact.},
-    note      = {(Best presentation award)},
+    abstract   = {We report on an industrial use case of static callgraph reachability analysis to improve WhatsApp Android app health. We collaborated with engineers dedicated to app health to annotate/specify source code. We leveraged the Infer static analyzer to prevent regressions during code changes and to periodically find pre-existing issues on the latest revision. Within three months, the analysis prevented almost a hundred regressions to be introduced and resulted in fixes for a handful of pre-existing issues, including examples with end-user measurable impact.},
+    note       = {(Best presentation award)},
 }
 
 @inproceedings{icse2026,
@@ -627,20 +627,20 @@
 }
 
 @inproceedings{soap2026,
-    author    = {Hajdu, \'Akos and Mendez, Jorge and van Valkenburg, Sander and Kupriianets, Artem and Marescotti, Matteo and Churchill, Dulma and Cela, Sopot},
-    title     = {Scaling Static Code Analysis Adoption at {W}hats{A}pp {iOS}},
-    year      = {2026},
-    publisher = {ACM},
-    booktitle = {Proceedings of the 15th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis},
-    doi       = {10.1145/3814987.3814990},
-    pages     = {29--34},
+    author     = {Hajdu, \'Akos and Mendez, Jorge and van Valkenburg, Sander and Kupriianets, Artem and Marescotti, Matteo and Churchill, Dulma and Cela, Sopot},
+    title      = {Scaling Static Code Analysis Adoption at {W}hats{A}pp {iOS}},
+    year       = {2026},
+    publisher  = {ACM},
+    booktitle  = {Proceedings of the 15th ACM SIGPLAN International Workshop on the State Of the Art in Program Analysis},
+    doi        = {10.1145/3814987.3814990},
+    pages      = {29--34},
 
-    type      = {Workshop},
+    type       = {Workshop},
 
-    url_pdf   = {https://hajduakos.github.io/publications/soap2026.pdf},
-    url_link  = {https://dl.acm.org/doi/10.1145/3814987.3814990},
+    url_pdf    = {https://hajduakos.github.io/publications/soap2026.pdf},
+    url_link   = {https://dl.acm.org/doi/10.1145/3814987.3814990},
     url_slides = {https://hajduakos.github.io/publications/slides/soap2026.pdf},
-    url_video = {https://www.youtube.com/live/QaO-SoETTns?si=M4bHA70O-AgbVzzy&t=25316},
+    url_video  = {https://www.youtube.com/live/QaO-SoETTns?si=M4bHA70O-AgbVzzy&t=25316},
 
-    abstract  = {We present an industrial case study on deploying static code analysis to foster developer adoption, which indirectly supports the reliability of the WhatsApp iOS app, with a particular focus on memory management issues. Over the course of a year, we utilized Infer and Clang Static Analyzer to proactively prevent over 1700 regressions. In parallel, we mobilized 50+ engineers and harnessed generative AI to remediate over 1000 long-standing, pre-existing issues within the code base. We share insights on both the technical and people challenges faced, emphasizing the socio-technical strategies required for large-scale static analysis adoption.},
+    abstract   = {We present an industrial case study on deploying static code analysis to foster developer adoption, which indirectly supports the reliability of the WhatsApp iOS app, with a particular focus on memory management issues. Over the course of a year, we utilized Infer and Clang Static Analyzer to proactively prevent over 1700 regressions. In parallel, we mobilized 50+ engineers and harnessed generative AI to remediate over 1000 long-standing, pre-existing issues within the code base. We share insights on both the technical and people challenges faced, emphasizing the socio-technical strategies required for large-scale static analysis adoption.},
 }
