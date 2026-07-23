@@ -7,7 +7,7 @@ Former intern at CERN and SRI International.
 - 2026 - present: **[Meta/FAIR](https://about.facebook.com/meta)**, London, UK, Software engineer  
   _Working on formal verification of AI agents in the FAIR (Fundamental AI Research) team._
 - 2021 - 2026: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
-  _Worked on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), mostly concerning reliability, performance and privacy properties._
+  _Worked on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), preventing thousands of reliability, performance and privacy regressions before getting into production. Drove cleanup of thousands of pre-existing issues by mobilizing engineers and leveraging AI._
 - 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
   _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en), related to software model checking and other verification techniques._
 
@@ -34,7 +34,7 @@ Former intern at CERN and SRI International.
 
 ## <i class="fas fa-desktop fa-fw"></i> Tools and Projects
 - 2021 - 2026: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
-  _Infer is a general purpose static analysis platform developed at Meta. I am working on the integrations of Infer on WhatsApp codebases (server/Android/iOS), including the Erlang frontend and some customized analyses._
+  _Infer is a general purpose static analysis platform developed at Meta. I worked on the integrations of Infer on WhatsApp codebases (server/Android/iOS), including the Erlang frontend, customized analyses and cleanup of pre-existing issues._
 - 2022 - 2024: **Sapienz** [<i class="fas fa-file-alt"></i>](publications/fse2024.pdf)  
   _I worked on integrating Sapienz -- an automated UI testing engine -- with the WhatsApp iOS client to perform taint analysis for privacy properties._
 - 2021 - 2022: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
