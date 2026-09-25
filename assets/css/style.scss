@@ -8,3 +8,6 @@
 }
 
 h2 { color: #267CB9; }
+
+/* The minimal theme bolds links on hover; keep the weight unchanged. */
+a:hover, a:focus { font-weight: inherit; }
