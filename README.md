@@ -1,9 +1,12 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
-I'm a computer scientist, located in London, UK, working on formal verification and AI at [Meta](https://about.facebook.com/meta): making agents better at writing code, specifications and proofs, and verifying the behavior of autonomous agents.
+I'm a computer scientist, located in London, UK, working on formal verification and AI at the Fundamental AI Research (FAIR) org of [Meta](https://about.facebook.com/meta).
+My research focuses on using LLMs and agents to write formal specifications and proofs for programs, ensuring their safety and security.
 
-Previously, I worked at WhatsApp on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), preventing thousands of reliability, performance and privacy regressions before getting into production. Drove cleanup of thousands of pre-existing issues by mobilizing engineers and leveraging AI.
+Previously, I worked at WhatsApp on automated static and dynamic program analysis tools for WhatsApp server ([Erlang](publications/erlang2022.pdf)) and clients ([Android](publications/soap2025.pdf/[iOS](publications/soap2026.pdf)), preventing thousands of [reliability](publications/soap2026.pdf), [performance](publications/soap2025.pdf) and [privacy](publications/icse2024.pdf) regressions before getting into production.
+I also drove the cleanup of 1000+ pre-existing issues by [mobilizing 50+ engineers](publications/soap2026.pdf) and [leveraging AI](publications/icse2026.pdf).
 
-I received a PhD in formal methods and software model checking from the [Budapest University of Technology and Economics](http://www.bme.hu/?language=en). During my PhD I interned at SRI International (smart contract verification) and collaborated with CERN (PLC verification) and NASA JPL (systems analysis).
+I received a [PhD in formal methods]((publications/phd2020.pdf)) from the [Budapest University of Technology and Economics](http://www.bme.hu/?language=en).
+During my PhD I interned at [SRI International](https://www.sri.com/) ([smart contract verification]((publications/vstte2019.pdf))) and collaborated with [CERN](https://home.cern/) ([PLC verification](publications/phd2020.pdf)) and [NASA JPL](https://www.jpl.nasa.gov/) ([systems analysis](publications/syseng2023.pdf)).
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 [SOAP'26](https://pldi26.sigplan.org/home/SOAP-2026) Scaling Static Code Analysis Adoption at WhatsApp iOS &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2026.pdf)  
