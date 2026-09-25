@@ -13,38 +13,33 @@ Worked on automated static and dynamic program analysis tools for WhatsApp serve
 Involved in research, projects and education at the [Critical Systems Research Group](https://ftsrg.mit.bme.hu/en/), related to software model checking and other verification techniques, in collaboration with CERN (PLC verification), NASA JPL (systems analysis).
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education
-2016 - 2020: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
+
+- 2016 - 2020: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
 Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
 [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](publications/phd2020.pdf): _Effective Domain-Specific Formal Verification Techniques_
 
 
-2014 - 2016: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
+- 2014 - 2016: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
 Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
 
-2010 - 2014: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
+- 2010 - 2014: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
 Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Internships
-- 2019: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
-  _Formalizing and verifying advanced data structures in Solidity._
-- 2018: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf)  
-  _Developing solc-verify, a formal verification tool for Solidity smart contracts._
-- 2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada (8 weeks) [<i class="fas fa-comment-alt"></i>](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)  
-  _Working on functional verification for cyber-physical systems._
-- 2015: **[CERN](http://home.cern/)**, Geneva, Switzerland (10 weeks) [<i class="fab fa-github"></i>](https://github.com/root-project/root) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2044503)  
-  _Developing code generation in ROOT, a data analysis framework for the experiments._
-- 2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary (6 weeks) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
-  _Modeling and analyzing public transportation networks using Petri nets._
+2019: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
+Formalized and encoded the memory model and data structures of the Solidity language for SMT-based verification.
 
-## <i class="fas fa-desktop fa-fw"></i> Tools and Projects
-- 2021 - 2026: **Infer** [<i class="fas fa-file-alt"></i>](publications/erlang2022.pdf) [<i class="fab fa-github"></i>](https://github.com/facebook/infer) [<i class="fas fa-video"></i>](https://www.youtube.com/watch?v=ZDZtauSxyaE)  
-  _Infer is a general purpose static analysis platform developed at Meta. I worked on the integrations of Infer on WhatsApp codebases (server/Android/iOS), including the Erlang frontend, customized analyses and cleanup of pre-existing issues._
-- 2022 - 2024: **Sapienz** [<i class="fas fa-file-alt"></i>](publications/fse2024.pdf)  
-  _I worked on integrating Sapienz -- an automated UI testing engine -- with the WhatsApp iOS client to perform taint analysis for privacy properties._
-- 2021 - 2022: **FAUSTA** [<i class="fas fa-file-alt"></i>](publications/icst2022.pdf)  
-  _FAUSTA is a traffic generation-based automated testing tool for WhatsApp server. I worked on more precise fault localization._
-- 2015 - 2021: **Theta** [<i class="fab fa-github"></i>](https://github.com/ftsrg/theta) [<i class="fas fa-file-alt"></i>](publications/fmcad2017.pdf) [<i class="fas fa-video"></i>](https://oc-presentation.ltcc.tuwien.ac.at/engage/theodul/ui/core.html?id=c658c37e-ae70-11e7-a0dd-bb49f3cb440c)  
-  _Theta is a generic, modular and configurable model checking framework. I was one of the original founders and main developers, focusing on the abstraction-based algorithms for transition systems and programs._
+2018: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/vstte2019.pdf)  
+Developed solc-verify, an automated verifier for Solidity smart contracts using specification annotations and modular program verification (Boogie, SMT solvers).
+
+2017: **[McGill University](http://www.mcgill.ca/)**, Montréal, Canada (8 weeks) [<i class="fas fa-comment-alt"></i>](https://www.slideshare.net/AkosHajdu/software-verification-with-abstractionbased-methods)  
+Research visit at Prof. Dániel Varró, worked on functional verification for cyber-physical systems.
+
+2015: **[CERN](http://home.cern/)**, Geneva, Switzerland (10 weeks) [<i class="fab fa-github"></i>](https://github.com/root-project/root) [<i class="fas fa-file-alt"></i>](http://cds.cern.ch/record/2044503)  
+Implemented the generation of C++ data analysis template generation in ROOT, a data analysis framework for high-energy physics.
+
+2013: **[evopro](http://www.evopro.hu/en)**, Budapest, Hungary (6 weeks) [<i class="fas fa-file-alt"></i>](publications/scp2017.pdf)  
+Modeled and analyzed of public transportation networks using Petri nets.
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 - **[SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025)** **Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health** &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;paper](publications/soap2025.pdf) &nbsp;[<i class="fas fa-comment-alt"></i>&nbsp;slides](publications/slides/soap2025.pdf)
