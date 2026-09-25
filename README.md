@@ -1,4 +1,4 @@
-## About Me
+## <i class="fas fa-user fa-fw"></i> About Me
 I'm a computer scientist, located in London, UK, working on formal verification at the Fundamental AI Research (FAIR) org of [Meta](https://about.facebook.com/meta).
 My research focuses on using LLMs and agents to write formal specifications and proofs for programs, ensuring their safety and security.
 
@@ -8,7 +8,7 @@ I also drove the cleanup of 1000+ pre-existing issues by [mobilizing 50+ enginee
 I received a [PhD in formal methods](publications/phd2020.pdf) from the [Budapest University of Technology and Economics](http://www.bme.hu/?language=en).
 During my PhD I interned at [SRI International](https://www.sri.com/) ([smart contract verification](publications/vstte2019.pdf)) and collaborated with [CERN](https://home.cern/) ([PLC verification](publications/phd2020.pdf)) and [NASA JPL](https://www.jpl.nasa.gov/) ([systems analysis](publications/syseng2023.pdf)).
 
-## Selected Publications
+## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 [SOAP'26](https://pldi26.sigplan.org/home/SOAP-2026) Scaling Static Code Analysis Adoption at WhatsApp iOS [[pdf]](publications/soap2026.pdf)  
 [ICSE'26](https://conf.researchr.org/home/icse-2026) WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp [[pdf]](publications/icse2026.pdf)  
 [SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025) Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health  [[pdf]](publications/soap2025.pdf)  
@@ -20,7 +20,7 @@ During my PhD I interned at [SRI International](https://www.sri.com/) ([smart co
 
 **Full list of publications:** [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
-## Service
+## <i class="fas fa-university fa-fw"></i> Service
 
 **Program committee**  
 Erlang'27 (chair)  
