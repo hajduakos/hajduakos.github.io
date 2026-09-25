@@ -7,11 +7,11 @@ I received a PhD in formal methods and software model checking from the [Budapes
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
 [SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025) Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health  &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2025.pdf)  
-[FSE'24](https://2024.esec-fse.org/) Automated End-to-End Dynamic Taint Analysis for WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> &nbsp;pdf](publications/fse2024.pdf)  
-[ICSE'24](https://conf.researchr.org/home/icse-2024) PrivacyCAT: Privacy-Aware Code Analysis at Scale &nbsp;[<i class="fas fa-file-alt"></i> &nbsp;pdf](publications/icse2024.pdf)  
-[ICST'22](https://icst2022.vrain.upv.es/) FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> &nbsp;pdf](publications/icst2022.pdf)  
-[VSTTE'19](https://sri-csl.github.io/VSTTE19/) solc-verify: A Modular Verifier for Solidity Smart Contracts &nbsp;[<i class="fas fa-file-alt"></i> &nbsp;pdf](publications/vstte2019.pdf)  
-[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/) Theta: a Framework for Abstraction Refinement-Based Model Checking &nbsp;[<i class="fas fa-file-alt"></i> &nbsp;pdf](publications/fmcad2017.pdf)
+[FSE'24](https://2024.esec-fse.org/) Automated End-to-End Dynamic Taint Analysis for WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/fse2024.pdf)  
+[ICSE'24](https://conf.researchr.org/home/icse-2024) PrivacyCAT: Privacy-Aware Code Analysis at Scale &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icse2024.pdf)  
+[ICST'22](https://icst2022.vrain.upv.es/) FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icst2022.pdf)  
+[VSTTE'19](https://sri-csl.github.io/VSTTE19/) solc-verify: A Modular Verifier for Solidity Smart Contracts &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/vstte2019.pdf)  
+[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/) Theta: a Framework for Abstraction Refinement-Based Model Checking &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/fmcad2017.pdf)
 
 **Full list of publications:** [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
