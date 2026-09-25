@@ -1,14 +1,14 @@
-## <i class="fas fa-user fa-fw"></i> About Me
+## About Me
 I'm a computer scientist, located in London, UK, working on formal verification at the Fundamental AI Research (FAIR) org of [Meta](https://about.facebook.com/meta).
 My research focuses on using LLMs and agents to write formal specifications and proofs for programs, ensuring their safety and security.
 
 Previously, I worked at [WhatsApp](https://www.whatsapp.com/) on automated [static](https://github.com/facebook/infer) and [dynamic](publications/icst2022.pdf) program analysis tools for WhatsApp server ([Erlang](publications/erlang2022.pdf)) and clients ([Android](publications/soap2025.pdf)/[iOS](publications/soap2026.pdf)), preventing thousands of [reliability](publications/soap2026.pdf), [performance](publications/soap2025.pdf) and [privacy](publications/icse2024.pdf) regressions before getting into production.
 I also drove the cleanup of 1000+ pre-existing issues by [mobilizing 50+ engineers](publications/soap2026.pdf) and [leveraging AI](publications/icse2026.pdf).
 
-I received a [PhD in formal methods]((publications/phd2020.pdf)) from the [Budapest University of Technology and Economics](http://www.bme.hu/?language=en).
-During my PhD I interned at [SRI International](https://www.sri.com/) ([smart contract verification]((publications/vstte2019.pdf))) and collaborated with [CERN](https://home.cern/) ([PLC verification](publications/phd2020.pdf)) and [NASA JPL](https://www.jpl.nasa.gov/) ([systems analysis](publications/syseng2023.pdf)).
+I received a [PhD in formal methods](publications/phd2020.pdf) from the [Budapest University of Technology and Economics](http://www.bme.hu/?language=en).
+During my PhD I interned at [SRI International](https://www.sri.com/) ([smart contract verification](publications/vstte2019.pdf)) and collaborated with [CERN](https://home.cern/) ([PLC verification](publications/phd2020.pdf)) and [NASA JPL](https://www.jpl.nasa.gov/) ([systems analysis](publications/syseng2023.pdf)).
 
-## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
+## Selected Publications
 [SOAP'26](https://pldi26.sigplan.org/home/SOAP-2026) Scaling Static Code Analysis Adoption at WhatsApp iOS &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2026.pdf)  
 [ICSE'26](https://conf.researchr.org/home/icse-2026) WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icse2026.pdf)  
 [SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025) Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health  &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2025.pdf)  
@@ -20,7 +20,7 @@ During my PhD I interned at [SRI International](https://www.sri.com/) ([smart co
 
 **Full list of publications:** [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
-## <i class="fas fa-university fa-fw"></i> Service
+## Service
 
 **Program committee**  
 Erlang'27 (chair)  
