@@ -1,5 +1,5 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
-I'm a computer scientist, located in London, UK, working on formal verification and AI at the Fundamental AI Research (FAIR) org of [Meta](https://about.facebook.com/meta).
+I'm a computer scientist, located in London, UK, working on formal verification at the Fundamental AI Research (FAIR) org of [Meta](https://about.facebook.com/meta).
 My research focuses on using LLMs and agents to write formal specifications and proofs for programs, ensuring their safety and security.
 
 Previously, I worked at WhatsApp on automated static and dynamic program analysis tools for WhatsApp server ([Erlang](publications/erlang2022.pdf)) and clients ([Android](publications/soap2025.pdf/[iOS](publications/soap2026.pdf)), preventing thousands of [reliability](publications/soap2026.pdf), [performance](publications/soap2025.pdf) and [privacy](publications/icse2024.pdf) regressions before getting into production.
