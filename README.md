@@ -6,6 +6,8 @@ Previously, I worked at WhatsApp on automated static and dynamic program analysi
 I received a PhD in formal methods and software model checking from the [Budapest University of Technology and Economics](http://www.bme.hu/?language=en). During my PhD I interned at SRI International (smart contract verification) and collaborated with CERN (PLC verification) and NASA JPL (systems analysis).
 
 ## <i class="fas fa-file-alt fa-fw"></i> Selected Publications
+[SOAP'26](https://pldi26.sigplan.org/home/SOAP-2026) Scaling Static Code Analysis Adoption at WhatsApp iOS &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2026.pdf)  
+[ICSE'26](https://conf.researchr.org/home/icse-2026) WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icse2026.pdf)  
 [SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025) Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health  &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2025.pdf)  
 [FSE'24](https://2024.esec-fse.org/) Automated End-to-End Dynamic Taint Analysis for WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/fse2024.pdf)  
 [ICSE'24](https://conf.researchr.org/home/icse-2024) PrivacyCAT: Privacy-Aware Code Analysis at Scale &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icse2024.pdf)  
