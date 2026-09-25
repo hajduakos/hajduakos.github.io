@@ -17,7 +17,7 @@ During my PhD I interned at [SRI International](https://www.sri.com/) ([smart co
 [VSTTE'19](https://sri-csl.github.io/VSTTE19/) solc-verify: A Modular Verifier for Solidity Smart Contracts [[pdf]](publications/vstte2019.pdf)  
 [FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/) Theta: a Framework for Abstraction Refinement-Based Model Checking [[pdf]](publications/fmcad2017.pdf)
 
-**Full list of publications:** [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
+Full list of publications: [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
 ## <i class="fas fa-university fa-fw"></i> Service
 
