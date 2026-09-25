@@ -1,24 +1,28 @@
 ## <i class="fas fa-user fa-fw"></i> About Me
-Computer scientist located in London, UK, working in the intersection of formal verification and AI at Meta FAIR (Fundamental AI Research).
+Computer scientist located in London, UK, working at the intersection of formal verification and AI within the Fundamental AI Research (FAIR) org at Meta.
 PhD in formal methods from BME, Hungary.
-Former intern at CERN and SRI International.
 
 ## <i class="fas fa-briefcase fa-fw"></i> Employment
-- 2026 - present: **[Meta/FAIR](https://about.facebook.com/meta)**, London, UK, Software engineer  
-  _Working on formal verification of AI agents in the FAIR (Fundamental AI Research) team._
-- 2021 - 2026: **[Meta/WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
-  _Worked on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), preventing thousands of reliability, performance and privacy regressions before getting into production. Drove cleanup of thousands of pre-existing issues by mobilizing engineers and leveraging AI._
-- 2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
-  _Involved in research, projects and education at the [Critical Systems Research Group](http://inf.mit.bme.hu/en), related to software model checking and other verification techniques._
+2026 - present: **[Meta / FAIR](https://about.facebook.com/meta)**, London, UK, Software engineer  
+Working on formal verification and AI: making agents better at writing code, specifications and proofs, and verifying the behavior of autonomous agents.
+
+2021 - 2026: **[Meta / WhatsApp](https://about.facebook.com/meta)**, London, UK, Software engineer  
+Worked on automated static and dynamic program analysis tools for WhatsApp server (Erlang) and clients (Android/iOS), preventing thousands of reliability, performance and privacy regressions before getting into production. Drove cleanup of thousands of pre-existing issues by mobilizing engineers and leveraging AI.
+
+2019 - 2021: **[Budapest University of Technology and Economics](http://www.bme.hu/?language=en)**, Assistant lecturer  
+Involved in research, projects and education at the [Critical Systems Research Group](https://ftsrg.mit.bme.hu/en/), related to software model checking and other verification techniques, in collaboration with CERN (PLC verification), NASA JPL (systems analysis).
 
 ## <i class="fas fa-graduation-cap fa-fw"></i> Education
-- 2016 - 2020: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
-  Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
-  [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](publications/phd2020.pdf): _Effective Domain-Specific Formal Verification Techniques_
-- 2014 - 2016: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
-  Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
-- 2010 - 2014: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
-  Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
+2016 - 2020: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
+Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
+[<i class="fas fa-file-alt"></i>&nbsp;Dissertation](publications/phd2020.pdf): _Effective Domain-Specific Formal Verification Techniques_
+
+
+2014 - 2016: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
+Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
+
+2010 - 2014: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
+Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
 ## <i class="fas fa-globe fa-fw"></i> Internships
 - 2019: **[SRI International](https://www.sri.com/)**, New York, USA (12 weeks) [<i class="fab fa-github"></i>](https://github.com/SRI-CSL/solidity) [<i class="fas fa-file-alt"></i>](publications/esop2020.pdf)  
