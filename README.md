@@ -9,14 +9,14 @@ I received a [PhD in formal methods](publications/phd2020.pdf) from the [Budapes
 During my PhD I interned at [SRI International](https://www.sri.com/) ([smart contract verification](publications/vstte2019.pdf)) and collaborated with [CERN](https://home.cern/) ([PLC verification](publications/phd2020.pdf)) and [NASA JPL](https://www.jpl.nasa.gov/) ([systems analysis](publications/syseng2023.pdf)).
 
 ## Selected Publications
-[SOAP'26](https://pldi26.sigplan.org/home/SOAP-2026) Scaling Static Code Analysis Adoption at WhatsApp iOS &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2026.pdf)  
-[ICSE'26](https://conf.researchr.org/home/icse-2026) WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icse2026.pdf)  
-[SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025) Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health  &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/soap2025.pdf)  
-[FSE'24](https://2024.esec-fse.org/) Automated End-to-End Dynamic Taint Analysis for WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/fse2024.pdf)  
-[ICSE'24](https://conf.researchr.org/home/icse-2024) PrivacyCAT: Privacy-Aware Code Analysis at Scale &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icse2024.pdf)  
-[ICST'22](https://icst2022.vrain.upv.es/) FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/icst2022.pdf)  
-[VSTTE'19](https://sri-csl.github.io/VSTTE19/) solc-verify: A Modular Verifier for Solidity Smart Contracts &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/vstte2019.pdf)  
-[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/) Theta: a Framework for Abstraction Refinement-Based Model Checking &nbsp;[<i class="fas fa-file-alt"></i> pdf](publications/fmcad2017.pdf)
+[SOAP'26](https://pldi26.sigplan.org/home/SOAP-2026) Scaling Static Code Analysis Adoption at WhatsApp iOS [[pdf]](publications/soap2026.pdf)  
+[ICSE'26](https://conf.researchr.org/home/icse-2026) WhatsCode: Large-Scale GenAI Deployment for Developer Efficiency at WhatsApp [[pdf]](publications/icse2026.pdf)  
+[SOAP'25](https://pldi25.sigplan.org/home/SOAP-2025) Compositional Static Callgraph Reachability Analysis for WhatsApp Android App Health  [[pdf]](publications/soap2025.pdf)  
+[FSE'24](https://2024.esec-fse.org/) Automated End-to-End Dynamic Taint Analysis for WhatsApp [[pdf]](publications/fse2024.pdf)  
+[ICSE'24](https://conf.researchr.org/home/icse-2024) PrivacyCAT: Privacy-Aware Code Analysis at Scale [[pdf]](publications/icse2024.pdf)  
+[ICST'22](https://icst2022.vrain.upv.es/) FAUSTA: Scaling Dynamic Analysis with Traffic Generation at WhatsApp [[pdf]](publications/icst2022.pdf)  
+[VSTTE'19](https://sri-csl.github.io/VSTTE19/) solc-verify: A Modular Verifier for Solidity Smart Contracts [[pdf]](publications/vstte2019.pdf)  
+[FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/) Theta: a Framework for Abstraction Refinement-Based Model Checking [[pdf]](publications/fmcad2017.pdf)
 
 **Full list of publications:** [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
