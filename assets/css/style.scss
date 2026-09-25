@@ -9,8 +9,11 @@
 
 h2 { color: #267CB9; }
 
-/* Centre the sidebar description and icon row, matching the title and photo. */
-header p { text-align: center; }
+/* Centre the sidebar, and size the photo. The theme's layout renders a bare
+   <img> and a plain <h1>, so this replaces the markup attributes that used to
+   do it, keeping _layouts/default.html close to the upstream theme version. */
+header h1, header p { text-align: center; }
+header img { display: block; width: 70%; margin: 0 auto 20px; }
 
 /* The minimal theme bolds links on hover; keep the weight unchanged. */
 a:hover, a:focus { font-weight: inherit; }
