@@ -2,7 +2,7 @@
 I'm a computer scientist, located in London, UK, working on formal verification at the Fundamental AI Research (FAIR) org of [Meta](https://about.facebook.com/meta).
 My research focuses on using LLMs and agents to write formal specifications and proofs for programs, ensuring their safety and security.
 
-Previously, I worked at WhatsApp on automated [static](https://github.com/facebook/infer) and [dynamic](publications/icst2022.pdf) program analysis tools for WhatsApp server ([Erlang](publications/erlang2022.pdf)) and clients ([Android](publications/soap2025.pdf)/[iOS](publications/soap2026.pdf)), preventing thousands of [reliability](publications/soap2026.pdf), [performance](publications/soap2025.pdf) and [privacy](publications/icse2024.pdf) regressions before getting into production.
+Previously, I worked at [WhatsApp](https://www.whatsapp.com/) on automated [static](https://github.com/facebook/infer) and [dynamic](publications/icst2022.pdf) program analysis tools for WhatsApp server ([Erlang](publications/erlang2022.pdf)) and clients ([Android](publications/soap2025.pdf)/[iOS](publications/soap2026.pdf)), preventing thousands of [reliability](publications/soap2026.pdf), [performance](publications/soap2025.pdf) and [privacy](publications/icse2024.pdf) regressions before getting into production.
 I also drove the cleanup of 1000+ pre-existing issues by [mobilizing 50+ engineers](publications/soap2026.pdf) and [leveraging AI](publications/icse2026.pdf).
 
 I received a [PhD in formal methods]((publications/phd2020.pdf)) from the [Budapest University of Technology and Economics](http://www.bme.hu/?language=en).
@@ -22,8 +22,7 @@ During my PhD I interned at [SRI International](https://www.sri.com/) ([smart co
 
 ## <i class="fas fa-university fa-fw"></i> Service
 
-### Program committee
-
+**Program committee**  
 Erlang'27 (chair)  
 [Erlang'26](https://icfp26.sigplan.org/home/erlang-2026) (chair), [FTfJP'26](https://2026.ecoop.org/home/FTfJP-2026) (chair)  
 [Erlang'25](https://conf.researchr.org/home/icfp-splash-2025/erlang-2025) (chair), [FormaliSE'25](https://2025.formalise.org/track/Formalise-2025-artifact-track) (AE chair)  
@@ -33,5 +32,5 @@ Erlang'27 (chair)
 [SV-COMP'21](https://sv-comp.sosy-lab.org/2021/) (PC), [OMBEE'21](https://conf.researchr.org/track/models-2021/models-2021-workshops#Accepted-Workshops) (PC), [FMICS'21](https://qonfest2021.lacl.fr/) (PC), [TAP'21](https://www.univ-orleans.fr/lifo/events/TAP2021/) (AE), [PLDI'21](https://conf.researchr.org/home/pldi-2021) (AE)  
 [OMBEE'20](https://www.openmbee.org/models2020.html) (PC), [TAP'20](https://tap.sosy-lab.org/2020/) (AE), [VMCAI'20](https://popl20.sigplan.org/home/VMCAI-2020) (AE)  
 
-### Journal reviews
+**Journal reviews**  
 [SCP](https://www.sciencedirect.com/journal/science-of-computer-programming), [FAC](https://dl.acm.org/journal/fac), [SQJ](https://www.springer.com/journal/11219), [STTT](https://www.springer.com/journal/10009), [IEEE Access](https://ieeeaccess.ieee.org/)  
