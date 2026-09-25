@@ -9,5 +9,8 @@
 
 h2 { color: #267CB9; }
 
+/* Centre the sidebar description and icon row, matching the title and photo. */
+header p { text-align: center; }
+
 /* The minimal theme bolds links on hover; keep the weight unchanged. */
 a:hover, a:focus { font-weight: inherit; }
