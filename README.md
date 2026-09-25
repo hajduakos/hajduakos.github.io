@@ -13,7 +13,7 @@ I received a PhD in formal methods and software model checking from the [Budapes
 - [VSTTE'19](https://sri-csl.github.io/VSTTE19/) solc-verify: A Modular Verifier for Solidity Smart Contracts &nbsp;[<i class="fas fa-file-alt"></i> &nbsp;pdf](publications/vstte2019.pdf)
 - [FMCAD'17](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD17/) Theta: a Framework for Abstraction Refinement-Based Model Checking &nbsp;[<i class="fas fa-file-alt"></i> &nbsp;pdf](publications/fmcad2017.pdf)
 
-**[Full list of publications](publications.html)** / [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
+**Full list of publications:** [Google Scholar](https://scholar.google.hu/citations?user=7z74iO8AAAAJ) / [dblp](https://dblp.uni-trier.de/pers/hd/h/Hajdu:=Aacute=kos)
 
 ## <i class="fas fa-university fa-fw"></i> Service
 - **PC chair**: [Erlang'26](https://icfp26.sigplan.org/home/erlang-2026), [FTfJP'26](https://2026.ecoop.org/home/FTfJP-2026), [Erlang'25](https://conf.researchr.org/home/icfp-splash-2025/erlang-2025), [FormaliSE'25-AE](https://2025.formalise.org/track/Formalise-2025-artifact-track), [Infer'23](https://pldi23.sigplan.org/home/infer-2023)
