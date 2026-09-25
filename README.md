@@ -17,11 +17,8 @@ Involved in research, projects and education at the [Critical Systems Research G
 - 2016 - 2020: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
 Computer science PhD, _advised by [Dr. Zoltán Micskei](http://mit.bme.hu/~micskeiz/)_  
 [<i class="fas fa-file-alt"></i>&nbsp;Dissertation](publications/phd2020.pdf): _Effective Domain-Specific Formal Verification Techniques_
-
-
 - 2014 - 2016: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
 Computer Engineering MSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/mscthesis2015.pdf)
-
 - 2010 - 2014: **[Budapest University of Technology and Economics](https://vik.bme.hu/en)**  
 Computer Engineering BSc &nbsp;[<i class="fas fa-file-alt"></i>&nbsp;thesis](publications/bscthesis2013.pdf)
 
